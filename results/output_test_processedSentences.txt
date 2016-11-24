@@ -1,0 +1,4 @@
+1.0: <~start~>_<~START~> today only : get your first outfit for DIGIT <~end~>_<~END~> 
+2.0: <~start~>_<~START~> offer expires in DIGIT days exclusions apply discount taken at checkout see disclaimer for details <~end~>_<~END~> 
+3.0: <~start~>_<~START~> free shipping free returns every day <~end~>_<~END~> 
+4.0: <~start~>_<~START~> preferred customer private sale thursday feb DIGIT to redeem use code today at checkout <~end~>_<~END~> 

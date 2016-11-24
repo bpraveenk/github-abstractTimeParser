@@ -1,0 +1,65 @@
+1.0: <~start~>_<~START~> thru_<THRU> DIGIT_<ETPMN> /_</> DIGIT_<ETPDN> <~end~>_<~END~> 
+<THRU> <ETPMN> </> <ETPDN> <~END~>
+2.0: <~start~>_<~START~> last_<TDPS> day_<TDSS> DIGIT_<DIGIT> off_<OFF> of_<NA> DIGIT_<NA> free_<NA> shipping_<NA> <~end~>_<~END~> 
+<TDPS> <TDSS> <DIGIT> <NA> <NA> <NA> <NA> <NA> <~END~>
+3.0: <~start~>_<~START~> black_<BLACK> friday_<FRIDAY> weekend_<ETPDS> ends_<ENDS> tomorrow_<ETPDS> sunday_<ETPDS> april_<ETPMS> DIGIT_<ETPDN> deals_<DEALS> just_<JUST> as_<NA> good_<NA> as_<NA> black_<NA> friday_<FRIDAY> all_<ALL> weekend_<ETPDS> long_<LONG> <~end~>_<~END~> 
+<TDPS> <TDSS> <ONLY> <ENDS> <ETPDS> <ETPDS> <ETPMS> <ETPDN> <DIGIT> <NA> <NA> <NA> <NA> <NA> <FRIDAY> <ALL> <ETPDS> <LONG> <~END~>
+4.0: <~start~>_<~START~> today_<BTPDS> &_<&> tomorrow_<ETPDS> online_<ONLINE> &_<&> in_<NA> stores_<NA> :_<NA> extra_<NA> DIGIT_<NA> %_<NA> off_<NA> entire_<NA> purchase_<NA> cannot_<NA> be_<NA> combined_<NA> with_<NA> other_<NA> promo_<NA> code_<NA> offers_<NA> use_<NA> code_<NA> vip_<NA> DIGIT_<NA> shop_<NA> now_<NA> <~end~>_<~END~> 
+<ETPDS> <&> <ETPDS> <ONLINE> <ONLY> <IN> <STORES> <:> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>
+5.0: <~start~>_<~START~> online_<ONLINE> only_<ONLY> today_<ETPDS> only_<ONLY> DIGIT_<ETPMN> /_</> DIGIT_<ETPDN> <~end~>_<~END~> 
+<ONLINE> <ONLY> <ETPDS> <ONLY> <ETPMN> </> <ETPDN> <~END~>
+6.0: <~start~>_<~START~> today_<ETPDS> only_<ONLY> in_<IN> app_<NA> free_<NA> ship_<NA> no_<NA> min_<NA> applies_<NA> to_<NA> standard_<NA> ground_<NA> shipping_<NA> to_<NA> the_<NA> DIGIT_<NA> contiguous_<NA> united_<NA> states_<NA> get_<NA> it_<NA> now_<NA> <~end~>_<~END~> 
+<ETPDS> <ONLY> <NA> <NA> <FREE> <SHIP> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>
+7.0: <~start~>_<~START~> end_<END> today_<ETPDS> <~end~>_<~END~> 
+<END> <ETPDS> <~END~>
+8.0: <~start~>_<~START~> expires_<EXPIRES> today_<ETPDS> <~end~>_<~END~> 
+<EXPIRES> <ETPDS> <~END~>
+9.0: <~start~>_<~START~> DIGIT_<NA> off_<NA> your_<NA> intimates_<NA> purchase_<NA> of_<NA> DIGIT_<NA> or_<NA> more_<NA> select_<NA> styles_<NA> promo_<NA> code_<NA> intimates_<NA> DIGIT_<DIGIT> ends_<ENDS> march_<ETPMS> DIGIT_<ETPDN> <~end~>_<~END~> 
+<NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <ENDS> <ETPMS> <ETPDN> <~END~>
+10.0: <~start~>_<~START~> shop_<SHOP> one_<TDPS> day_<TDSS> DIGIT_<DIGIT> collection_<COLLECTION> <~end~>_<~END~> 
+<SHOP> <TDPS> <TDSS> <DIGIT> <COLLECTION> <~END~>
+11.0: <~start~>_<~START~> the_<NA> goodwill_<NA> sale_<SALE> ends_<ENDS> today_<ETPDS> saturday_<ETPDS> march_<ETPMS> DIGIT_<ETPDN> save_<SAVE> on_<ON> nearly_<NA> everything_<NA> including_<NA> your_<NA> favorite_<NA> brands_<NA> that_<NA> rarely_<NA> go_<NA> on_<NA> sale_<NA> just_<NA> for_<NA> you_<NA> get_<NA> started_<NA> with_<NA> two_<NA> exclusive_<NA> goodwill_<NA> sale_<NA> coupons_<NA> plus_<NA> donate_<NA> in_<NA> store_<NA> to_<NA> earn_<NA> extra_<NA> coupons_<NA> save_<NA> an_<NA> extra_<NA> DIGIT_<NA> %_<NA> on_<NA> a_<NA> single_<NA> item_<NA> save_<NA> an_<NA> extra_<NA> DIGIT_<NA> %_<NA> on_<NA> a_<NA> single_<NA> cosmetics_<NA> or_<NA> fragrance_<NA> item_<NA> promo_<NA> code_<NA> :_<NA> marchgdwl_<NA> DIGIT_<DIGIT> ends_<ENDS> today_<ETPDS> saturday_<ETPDS> march_<ETPMS> DIGIT_<ETPDN> take_<TAKE> DIGIT_<DIGIT> off_<NA> your_<NA> DIGIT_<NA> purchase_<NA> promo_<NA> code_<NA> :_<NA> zeaster_<NA> DIGIT_<NA> print_<NA> coupons_<NA> <~end~>_<~END~> 
+<THE> <GOODWILL> <SALE> <ENDS> <ETPDS> <ETPDS> <ETPMS> <ETPDN> <SAVE> <ON> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <GET> <STARTED> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <ENDS> <ETPDS> <ETPDS> <ETPMS> <ETPDN> <TAKE> <DIGIT> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>
+12.0: <~start~>_<~START~> the_<NA> goodwill_<NA> sale_<SALE> ends_<ENDS> saturday_<ETPDS> march_<ETPMS> DIGIT_<ETPDN> save_<SAVE> on_<ON> nearly_<NA> everything_<NA> including_<NA> your_<NA> favorite_<NA> brands_<NA> that_<NA> rarely_<NA> go_<NA> on_<ON> sale_<SALE> limited_<TDPS> time_<TDSS> only_<ONLY> ends_<ENDS> tuesday_<ETPDS> march_<ETPMS> DIGIT_<ETPDN> get_<GET> started_<STARTED> with_<NA> DIGIT_<NA> exclusive_<NA> coupons_<NA> for_<NA> our_<NA> best_<NA> customers_<NA> plus_<NA> donate_<NA> in_<NA> store_<NA> to_<NA> earn_<NA> extra_<NA> coupons_<NA> extra_<NA> DIGIT_<NA> %_<NA> off_<NA> an_<NA> apparel_<NA> accessory_<NA> or_<NA> fine_<NA> jewelry_<NA> item_<NA> extra_<NA> DIGIT_<NA> %_<NA> off_<NA> a_<NA> cosmetics_<NA> or_<NA> fragrance_<NA> item_<NA> promo_<NA> code_<NA> :_<NA> gwbestmrc_<NA> DIGIT_<NA> shop_<NA> now_<NA> <~end~>_<~END~> 
+<THE> <GOODWILL> <SALE> <ENDS> <ETPDS> <ETPMS> <ETPDN> <SAVE> <ON> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <SALE> <TDPS> <TDSS> <ONLY> <ENDS> <ETPDS> <ETPMS> <ETPDN> <GET> <STARTED> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <CODE> <:> <ETPMS> <ETPDN> <SHOP> <NOW> <~END~>
+13.0: <~start~>_<~START~> saturday_<ETPDS> doorbusters_<DOORBUSTERS> extended_<EXTENDED> <~end~>_<~END~> 
+<ETPDS> <DOORBUSTERS> <NA> <~END~>
+14.0: <~start~>_<~START~> online_<NA> &_<NA> in_<NA> stores_<STORES> ends_<ENDS> tomorrow_<ETPDS> entire_<ENTIRE> store_<STORE> DIGIT_<NA> or_<NA> less_<NA> excludes_<NA> clearance_<NA> and_<NA> brands_<NA> we_<NA> love_<NA> while_<NA> supplies_<NA> last_<NA> shop_<NA> now_<NA> <~end~>_<~END~> 
+<ONLINE> <ONLY> <IN> <STORES> <ENDS> <ETPDS> <ENTIRE> <STORE> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <LOVE> <WHILE> <TDPS> <TDSS> <SHOP> <NOW> <~END~>
+15.0: <~start~>_<~START~> ready_<NA> for_<FOR> the_<THE> weekend_<ETPDS> <~end~>_<~END~> 
+<NA> <NA> <NA> <NA> <~END~>
+16.0: <~start~>_<~START~> this_<NA> offer_<NA> expires_<EXPIRES> at_<AT> DIGIT_<ETPHN> :_<:> DIGIT_<ETPmN> pm_<ETPAP> ct_<ETPZ> on_<ON> DIGIT_<ETPMN> /_</> DIGIT_<ETPDN> /_</> DIGIT_<ETPYN> <~end~>_<~END~> 
+<NA> <OFFER> <EXPIRES> <AT> <ETPHN> <:> <ETPmN> <ETPAP> <ETPZ> <ON> <BTPMN> </> <ETPDN> </> <ETPDN> <~END~>
+17.0: <~start~>_<~START~> starts_<STARTS> today_<BTPDS> the_<THE> goodwill_<GOODWILL> sale_<SALE> ends_<ENDS> saturday_<ETPDS> march_<ETPMS> DIGIT_<ETPDN> save_<SAVE> up_<UP> to_<NA> DIGIT_<NA> %_<NA> storewide_<NA> including_<NA> new_<NA> spring_<NA> arrivals_<NA> limited_<NA> time_<NA> only_<ONLY> ends_<ENDS> tuesday_<ETPDS> march_<ETPMS> DIGIT_<ETPDN> get_<GET> started_<STARTED> with_<NA> DIGIT_<NA> exclusive_<NA> coupons_<NA> for_<NA> our_<NA> best_<NA> customers_<NA> extra_<NA> DIGIT_<NA> %_<NA> off_<NA> an_<NA> apparel_<NA> accessory_<NA> or_<NA> fine_<NA> jewelry_<NA> item_<NA> extra_<NA> DIGIT_<NA> %_<NA> off_<NA> a_<NA> cosmetics_<NA> or_<NA> fragrance_<NA> item_<NA> promo_<NA> code_<NA> :_<NA> gwbestmrc_<NA> DIGIT_<NA> shop_<NA> now_<NA> <~end~>_<~END~> 
+<STARTS> <BTPDS> <THE> <GOODWILL> <SALE> <ENDS> <ETPDS> <ETPMS> <ETPDN> <SAVE> <UP> <TO> <NA> <NA> <NA> <NA> <NA> <NA> <OFF> <TDPS> <TDSS> <ONLY> <ENDS> <ETPDS> <ETPMS> <ETPDN> <GET> <STARTED> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <CODE> <:> <ETPMS> <ETPDN> <SHOP> <NOW> <~END~>
+18.0: <~start~>_<~START~> thurs_<BTPDS> DIGIT_<BTPHN> pm_<BTPAP> close_<ETPHS> fri_<BTPDS> open_<OPEN> DIGIT_<ETPHN> pm_<ETPAP> sat_<BTPDS> DIGIT_<BTPHN> am_<BTPAP> DIGIT_<ETPHN> pm_<ETPAP> /_</> all_<ALL> day_<NA> online_<ONLINE> /_</> DIGIT_<TDPN> day_<TDSS> doorbuster_<DOORBUSTER> DIGIT_<DIGIT> %_<NA> off_<NA> almost_<NA> everything_<NA> in_<NA> store_<NA> &_<NA> online_<NA> <~end~>_<~END~> 
+<FROM> <BTPHN> <BTPAP> <TO> <ETPHN> <:> <ETPmN> <ETPAP> <BTPDS> <BTPHN> <BTPAP> <ETPHN> <ETPAP> <SHOP> <ALL> <DAY> <ONLINE> <EXCLUSIVE> <TDPN> <TDSS> <ONLY> <DIGIT> <%> <OFF> <NA> <NA> <IN> <STORE> <&> <ONLINE> <~END~>
+19.0: <~start~>_<~START~> final_<TDPS> day_<TDSS> online_<ONLINE> exclusive_<EXCLUSIVE> savings_<NA> <~end~>_<~END~> 
+<TDPS> <TDSS> <ONLINE> <EXCLUSIVE> <NA> <~END~>
+20.0: <~start~>_<~START~> print_<NA> coupon_<NA> valid_<VALID> thru_<THRU> DIGIT_<ETPMN> /_</> DIGIT_<ETPDN> <~end~>_<~END~> 
+<NA> <COUPON> <VALID> <THRU> <ETPMN> </> <ETPDN> <~END~>
+21.0: <~start~>_<~START~> buy_<NA> one_<NA> get_<NA> one_<NA> free_<NA> choose_<NA> from_<NA> DIGIT_<NA> styles_<STYLES> ends_<ENDS> midnight_<ETPHS> monday_<ETPDS> DIGIT_<ETPMN> /_</> DIGIT_<ETPDN> <~end~>_<~END~> 
+<NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <ENDS> <ETPHS> <ETPDS> <ETPMN> </> <ETPDN> <~END~>
+22.0: <~start~>_<~START~> yellow_<NA> dot_<NA> clearance_<NA> new_<NA> reductions_<NA> taken_<NA> save_<NA> up_<NA> to_<NA> DIGIT_<NA> %_<NA> on_<NA> original_<NA> prices_<NA> when_<NA> you_<NA> take_<NA> an_<NA> extra_<NA> DIGIT_<NA> DIGIT_<NA> %_<NA> off_<NA> yellow_<NA> dot_<NA> and_<NA> an_<NA> extra_<NA> DIGIT_<NA> %_<NA> off_<NA> black_<NA> dot_<DOT> ends_<ENDS> monday_<ETPDS> february_<ETPMS> DIGIT_<ETPDN> extra_<EXTRA> DIGIT_<DIGIT> %_<NA> off_<NA> yellow_<NA> and_<NA> black_<NA> footwear_<NA> promo_<NA> code_<NA> :_<NA> ylwaprldt_<NA> DIGIT_<NA> print_<NA> coupon_<NA> <~end~>_<~END~> 
+<NA> <NA> <NA> <NA> <NA> <NA> <SAVE> <UP> <TO> <NA> <NA> <NA> <ORIGINAL> <PRICES> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <DOT> <ENDS> <ETPDS> <ETPMS> <ETPDN> <EXTRA> <DIGIT> <%> <OFF> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>
+23.0: <~start~>_<~START~> last_<TDPS> day_<TDSS> to_<TO> get_<GET> a_<NA> free_<NA> DIGIT_<NA> gift_<NA> card_<NA> free_<NA> shipping_<NA> on_<NA> DIGIT_<NA> <~end~>_<~END~> 
+<TDPS> <TDSS> <TO> <GET> <A> <NA> <NA> <NA> <NA> <FREE> <SHIPPING> <NA> <NA> <~END~>
+24.0: <~start~>_<~START~> DIGIT_<TDPN> days_<TDSS> only_<ONLY> <~end~>_<~END~> 
+<TDPN> <TDSS> <ONLY> <~END~>
+25.0: <~start~>_<~START~> valid_<VALID> thru_<THRU> DIGIT_<ETPMN> /_</> DIGIT_<ETPDN> DIGIT_<DIGIT> off_<OFF> your_<NA> purchase_<NA> of_<NA> DIGIT_<NA> or_<NA> more_<NA> in_<NA> store_<NA> or_<NA> online_<NA> <~end~>_<~END~> 
+<VALID> <THRU> <ETPMN> </> <ETPDN> <DIGIT> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>
+26.0: <~start~>_<~START~> online_<NA> exclusive_<NA> DIGIT_<NA> great_<GREAT> deals_<DEALS> DIGIT_<TDPN> days_<TDSS> only_<ONLY> <~end~>_<~END~> 
+<ONLINE> <EXCLUSIVE> <TDPN> <TDSS> <DEALS> <TDPN> <TDSS> <ONLY> <~END~>
+27.0: <~start~>_<~START~> today_<ETPDS> only_<ONLY> up_<UP> to_<NA> DIGIT_<NA> %_<NA> off_<NA> tops_<NA> and_<NA> sweaters_<NA> shop_<NA> now_<NA> <~end~>_<~END~> 
+<ETPDS> <ONLY> <UP> <TO> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>
+28.0: <~start~>_<~START~> DIGIT_<TDPN> days_<TDSS> left_<LEFT> to_<TO> order_<NA> easter_<NA> styles_<NA> shop_<NA> easter_<NA> now_<NA> <~end~>_<~END~> 
+<TDPN> <TDSS> <LEFT> <TO> <ORDER> <NA> <NA> <NA> <NA> <NA> <~END~>
+29.0: <~start~>_<~START~> bonus_<NA> buys_<BUYS> end_<END> today_<ETPDS> monday_<ETPDS> february_<ETPMS> DIGIT_<ETPDN> bonus_<BONUS> DIGIT_<DIGIT> van_<NA> heusen_<NA> dress_<NA> shirts_<NA> and_<NA> ties_<NA> <~end~>_<~END~> 
+<NA> <BUYS> <END> <ETPDS> <ETPDS> <ETPMS> <ETPDN> <BONUS> <DIGIT> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>
+30.0: <~start~>_<~START~> weekend_<ETPDS> savings_<SAVINGS> <~end~>_<~END~> 
+<ETPDS> <ONLY> <~END~>
+31.0: <~start~>_<~START~> thru_<THRU> april_<ETPMS> DIGIT_<ETPDN> th_<TH> DIGIT_<ETPYN> free_<FREE> umbrella_<UMBRELLA> with_<NA> a_<NA> single_<NA> same_<NA> day_<NA> brighton_<NA> purchase_<NA> of_<NA> DIGIT_<NA> or_<NA> more_<NA> in_<NA> store_<NA> learn_<NA> more_<NA> <~end~>_<~END~> 
+<THRU> <ETPMS> <ETPDN> <TH> <ETPYN> <FREE> <SHIPPING> <NA> <A> <SINGLE> <TDPS> <TDSS> <ONLY> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>
+32.0: <~start~>_<~START~> online_<ONLINE> exclusive_<EXCLUSIVE> DIGIT_<TDPN> days_<TDSS> only_<ONLY> extra_<EXTRA> DIGIT_<NA> off_<NA> DIGIT_<NA> orders_<NA> of_<NA> DIGIT_<NA> or_<NA> more_<NA> use_<NA> code_<NA> :_<NA> extra_<NA> DIGIT_<NA> <~end~>_<~END~> 
+<ONLINE> <EXCLUSIVE> <TDPN> <TDSS> <ONLY> <EXTRA> <DIGIT> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>
+33.0: <~start~>_<~START~> end

@@ -1,0 +1,717 @@
+between august_BTPMS 17_BTPDN 2015_BTPYN 12_BTPHN : 01_BTPmN am_BTPAP ct_BTPZ and august_ETPMS 19_ETPDN 2015_ETPYN 11_ETPHN : 59_ETPmN am_ETPAP ct_ETPZ,<BETWEEN> <BTPMS> <BTPDN> <ETPDN> <ETPHN> <:> <ETPmN> <ETPAP> <ETPZ> <AND> <ETPMS> <ETPDN> <BTPHN> <ETPHN> <:> <ETPmN> <ETPAP> <ETPZ> <~END~>,predictedBegin:8/17/2015 0:0
+,trueBegin:8/17/15 0:01,predictedEnd:8/19/2015 12:59
+,trueEnd:8/19/15 0:01
+yes PLEASE ENDS TOMORROW_TDSS UP TO 40 % OFF SELECT TOPS SELECT DRESSES SELECT DENIM & MORE,<ETPDS> <ONLY> <ENDS> <ETPDS> <UP> <TO> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:2/29/2016 0:0
+,trueBegin:2/29/16 0:00,predictedEnd:3/1/2016 23:59
+,trueEnd:3/1/16 23:59
+48_TDPN hours_TDSS only,<TDPN> <TDSS> <ONLY> <~END~>,predictedBegin:9/16/2015 0:0
+,trueBegin:9/16/15 0:00,predictedEnd:9/18/2015 23:59
+,trueEnd:9/17/15 23:59
+Today_ETPDS online only : all shoes 5 35 Excludes clearance and Brands We Love SHOP SHOES,<ETPDS> <ONLINE> <ONLY> <:> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:4/4/2016 0:0
+,trueBegin:4/4/16 0:00,predictedEnd:4/4/2016 23:59
+,trueEnd:4/4/16 23:59
+FINAL 2_TDPN DAYS_TDSS SPRING FORWARD SALE 2 FOR 89 All Dress Shirts,<FINAL> <TDPN> <TDSS> <SPRING> <FORWARD> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:3/10/2016 0:0
+,trueBegin:3/10/16 0:00,predictedEnd:3/11/2016 23:59
+,trueEnd:3/11/16 23:59
+The Goodwill Sale Ends Saturday_ETPDS March_ETPMS 26_ETPDN Save on nearly everything including your favorite brands that rarely go on sale Enjoy 2 exclusive coupons for our best customers Plus donate in store to earn extra coupons EXTENDED now_BTPHS through Saturday_ETPDS March_ETPMS 19_ETPDN Get 3 coupons for each in store donation Extra 25 % off an apparel accessory or fine jewelry item Extra 20 % off a cosmetics or fragrance item Promo code : MARCHGDWL 16 PRINT COUPON,<THE> <GOODWILL> <SALE> <ENDS> <ETPDS> <ETPMS> <ETPDN> <SAVE> <ON> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <COUPONS> <EXTENDED> <BTPHS> <THROUGH> <ETPDS> <ETPMS> <ETPDN> <GET> <DIGIT> <NA> <FOR> <EACH> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:3/17/2016 0:0
+,trueBegin:3/17/16 0:00,predictedEnd:3/26/2016 23:59
+,trueEnd:3/26/16 23:59
+thru 7_ETPMN / 28_ETPDN,<THRU> <ETPMN> </> <ETPDN> <~END~>,predictedBegin:7/27/2015 0:0
+,trueBegin:7/27/15 0:00,predictedEnd:7/28/2015 23:59
+,trueEnd:7/28/15 23:59
+Limited_TDPS Time_TDSS Orders 150 ship free,<TDPS> <TDSS> <ORDERS> <DIGIT> <NA> <NA> <~END~>,predictedBegin:4/6/2016 0:0
+,trueBegin:4/6/16 0:00,predictedEnd:4/7/2016 23:59
+,trueEnd:4/7/16 23:59
+Deals of the day shop all offers online only select styles while supplies_TDPS last_TDSS,<NA> <OF> <THE> <ETPDS> <SHOP> <ALL> <NA> <NA> <NA> <SELECT> <STYLES> <WHILE> <TDPS> <TDSS> <~END~>,predictedBegin:3/26/2016 0:0
+,trueBegin:3/26/16 0:00,predictedEnd:3/27/2016 23:59
+,trueEnd:3/27/16 23:59
+Last_TDPS chance_TDSS 100 off 400,<TDPS> <TDSS> <DIGIT> <OFF> <NA> <~END~>,predictedBegin:3/2/2016 0:0
+,trueBegin:3/2/16 0:00,predictedEnd:3/2/2016 23:59
+,trueEnd:3/3/16 23:59
+VALID THRU 4_ETPHN / 17_ETPDN EXTRA 50 % OFF YOUR CLEARANCE PURCHASES IN STORE & ONLINE,<VALID> <THRU> <ETPMN> </> <ETPDN> <EXTRA> <DIGIT> <%> <OFF> <NA> <NA> <NA> <IN> <STORE> <&> <ONLINE> <~END~>,predictedBegin:4/14/2016 0:0
+,trueBegin:4/14/16 0:00,predictedEnd:4/17/2016 23:59
+,trueEnd:4/17/16 23:59
+Up to 50 % OFF Sale Styles Online Only For a limited_TDPS time_TDSS Shop Sale Maternity Clothing,<NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <FOR> <A> <TDPS> <TDSS> <SHOP> <NA> <NA> <NA> <~END~>,predictedBegin:3/3/2016 0:0
+,trueBegin:3/3/16 0:00,predictedEnd:3/4/2016 23:59
+,trueEnd:3/4/16 23:59
+Online only ends Monday_ETPDS Entire site 20 50 % off Excludes clearance and Brands We Love Discount applied automatically at checkout,<ONLINE> <ONLY> <ENDS> <ETPDS> <ENTIRE> <SITE> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:3/4/2016 0:0
+,trueBegin:3/4/16 0:00,predictedEnd:3/7/2016 23:59
+,trueEnd:3/7/16 23:59
+limited_TDPS time_TDSS only ,<TDPS> <TDSS> <ONLY> <~END~>,predictedBegin:10/1/2015 0:0
+,trueBegin:10/1/15 0:00,predictedEnd:10/2/2015 23:59
+,trueEnd:10/2/15 23:59
+Shop One_TDPS Day_TDSS 29 Collection ,<SHOP> <TDPS> <TDSS> <DIGIT> <COLLECTION> <~END~>,predictedBegin:4/16/2016 0:0
+,trueBegin:4/16/16 0:00,predictedEnd:4/16/2016 23:59
+,trueEnd:4/16/16 23:59
+ONE_TDPS day_TDSS SALE SUNDAY_ETPDS BONUS DAY 40 % OFF,<TDPS> <TDSS> <SALE> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:2/20/2016 0:0
+,trueBegin:2/20/16 0:00,predictedEnd:2/20/2016 23:59
+,trueEnd:2/21/16 23:59
+Online Exclusive 2_TDPN Days_TDSS Only Must See Markdowns 499 2 and up includes 100 s of styles Shop Now,<ONLINE> <EXCLUSIVE> <TDPN> <TDSS> <ONLY> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:3/30/2016 0:0
+,trueBegin:3/30/16 0:00,predictedEnd:3/31/2016 23:59
+,trueEnd:3/31/16 23:59
+SUPER CASH ENDS 4_ETPMN / 14_ETPDN USE 10 FOR EVERY 25 YOU SPEND,<SUPER> <CASH> <ENDS> <ETPMN> </> <ETPDN> <USE> <DIGIT> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:4/8/2016 0:0
+,trueBegin:4/8/16 0:00,predictedEnd:4/14/2016 23:59
+,trueEnd:4/14/16 23:59
+LAST_TDPS DAY_TDSS SPEND 150 OR MORE TAKE 50 OFF YOUR ORDER FREE SHIP,<TDPS> <TDSS> <SPEND> <DIGIT> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:3/1/2016 0:0
+,trueBegin:3/1/16 0:00,predictedEnd:3/1/2016 23:59
+,trueEnd:3/1/16 23:59
+Win your baby gear with Graco Until March_ETPMS 31_ETPDN,<NA> <NA> <NA> <NA> <NA> <VALID> <UNTIL> <ETPMS> <ETPDN> <~END~>,predictedBegin:3/12/2016 0:0
+,trueBegin:3/12/16 0:00,predictedEnd:3/31/2016 23:59
+,trueEnd:3/31/16 23:59
+FREE SHIPPING TODAY_ETPDS ONLY SHOP DRESS SHIRTS,<FREE> <SHIPPING> <ETPDS> <ONLY> <SHOP> <NA> <NA> <~END~>,predictedBegin:2/29/2016 0:0
+,trueBegin:2/29/16 0:00,predictedEnd:2/29/2016 23:59
+,trueEnd:2/29/16 23:59
+Shop the April_ETPMS catalog,<NA> <NA> <NA> <NA> <~END~>,predictedBegin:3/28/2016 0:0
+,trueBegin:4/1/16 0:00,predictedEnd:3/28/2016 23:59
+,trueEnd:4/30/16 23:59
+Final_TDPS Hours_TDSS No Exclusions,<TDPS> <TDSS> <ONLY> <NA> <~END~>,predictedBegin:4/11/2016 0:0
+,trueBegin:4/11/16 0:00,predictedEnd:4/11/2016 23:59
+,trueEnd:4/11/16 23:59
+THE FRIENDS & FAMILY EVENT 30 % OFF YOUR ENTIRE PURCHASE FROM NOW_BTPHS THROUGH MARCH_ETPMS 20_ETPDN at Kenneth Cole retail stores and KennethColecom / SHOP WOMENS / IT REALLY IS WHO YOU KNOW,<NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <PURCHASE> <FROM> <BTPHS> <THROUGH> <ETPMS> <ETPDN> <AT> <KENNETH> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:3/17/2016 0:0
+,trueBegin:3/17/16 0:00,predictedEnd:3/20/2016 23:59
+,trueEnd:3/20/16 23:59
+2_TDPN Days_TDSS Left To Order Easter Styles Hurry,<TDPN> <TDSS> <LEFT> <TO> <ORDER> <NA> <NA> <NA> <~END~>,predictedBegin:3/12/2016 0:0
+,trueBegin:3/12/16 0:00,predictedEnd:3/13/2016 23:59
+,trueEnd:3/13/16 23:59
+2_TDPN DAYS_TDSS ONLY,<TDPN> <TDSS> <ONLY> <~END~>,predictedBegin:4/16/2016 0:0
+,trueBegin:4/16/16 0:00,predictedEnd:4/17/2016 23:59
+,trueEnd:4/17/16 23:59
+LAST_TDPS CALL_TDSS CLEARANCE Your last_TDPS chance_TDSS to save up to 80 % on our entire stock of clearance,<TDPS> <TDSS> <CLEARANCE> <HURRY> <TDPS> <TDSS> <TO> <SAVE> <UP> <TO> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:3/2/2016 0:0
+,trueBegin:3/2/16 0:00,predictedEnd:3/2/2016 23:59
+,trueEnd:3/2/16 23:59
+10_BTPMN / 13_BTPDN / 2015_BTPYN at 12_BTPHN : 00_BTPmN am_BTPAP et_BTPZ,<BTPMN> </> <ETPDN> </> <ETPYN> <AT> <ETPHN> <:> <ETPmN> <ETPAP> <ETPZ> <~END~>,predictedBegin:10/13/2015 0:0
+,trueBegin:10/13/15 0:00,predictedEnd:10/13/2015 12:0
+,trueEnd:10/13/15 23:59
+ENDS TOMORROW_ETPDS,<ENDS> <ETPDS> <~END~>,predictedBegin:2/20/2016 0:0
+,trueBegin:2/20/16 0:00,predictedEnd:2/21/2016 23:59
+,trueEnd:2/21/16 23:59
+TODAY_ETPDS 03_ETPMN / 14_ETPDN ONLY ONLINE ONLY HURRY ENDS AT MIDNIGHT_ETPHS,<ETPDS> <ETPMN> </> <ETPDN> <ONLY> <ONLINE> <ONLY> <DIGIT> <ENDS> <AT> <ETPHS> <~END~>,predictedBegin:3/14/2016 0:0
+,trueBegin:3/14/16 0:00,predictedEnd:3/14/2016 23:59
+,trueEnd:3/14/16 23:59
+event ends august_ETPMS 31_ETPDN 9_ETPHN : 00_ETPmN am_ETPAP pt_ETPZ,<EVENT> <ENDS> <ETPMS> <ETPDN> <ETPHN> <:> <ETPmN> <ETPAP> <ETPZ> <~END~>,predictedBegin:8/16/2015 0:0
+,trueBegin:8/16/15 0:00,predictedEnd:8/31/2015 9:0
+,trueEnd:8/31/15 9:00
+LIMITED_TDPS TIME_TDSS In Store & Online President_TDPS Day_TDSS Event ALL CLEARANCE NOW 999,<TDPS> <TDSS> <IN> <STORE> <&> <ONLINE> <TDPS> <TDSS> <ONLY> <ALL> <CLEARANCE> <NA> <NA> <~END~>,predictedBegin:2/7/2016 0:0
+,trueBegin:2/7/16 0:00,predictedEnd:2/15/2016 23:59
+,trueEnd:2/15/16 23:59
+august_BTPMS 31_BTPDN 2015_BTPYN at 11_BTPHN : 59_BTPmN pm_BTPAP,<BTPMS> <BTPDN> <BTPYN> <AT> <ETPHN> <:> <ETPmN> <ETPAP> <~END~>,predictedBegin:8/31/2015 0:0
+,trueBegin:8/31/15 23:59,predictedEnd:8/31/2015 23:59
+,trueEnd:8/31/15 23:59
+Extended Today_ETPDS & Online Only,<EXTENDED> <ETPDS> <&> <ONLINE> <ONLY> <~END~>,predictedBegin:4/6/2016 0:0
+,trueBegin:4/6/16 0:00,predictedEnd:4/6/2016 23:59
+,trueEnd:4/6/16 23:59
+Starts Now_BTPHS adidas Limited_TDPS time_TDSS online sale event Performance originality and style The brand has earned its three stripes Shop Womens Shoes,<STARTS> <BTPHS> <SPANX> <TDPS> <TDSS> <ONLINE> <SALE> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:3/20/2016 0:0
+,trueBegin:3/20/16 0:00,predictedEnd:3/21/2016 23:59
+,trueEnd:3/21/16 23:59
+Fun Ready Favorites Save on new play & active styles New Mix n Match 8 2 and up Limited_TDPS time_TDSS only While supplies last Excludes Online First styles Prices may vary in stores online and in Canada,<NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <AND> <ONLINE> <TDPS> <TDSS> <ONLY> <WHILE> <TDPS> <TDSS> <ONLY> <NA> <FIRST> <STYLES> <THRU> <ETPMS> <ETPDN> <IN> <STORES> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:3/22/2016 0:0
+,trueBegin:3/22/16 0:00,predictedEnd:5/24/2016 23:59
+,trueEnd:3/23/16 23:59
+Ends March_ETPMS 26_ETPDN th SHOP NOW,<ENDS> <ETPMS> <ETPDN> <ONLY> <SHOP> <NOW> <~END~>,predictedBegin:3/22/2016 0:0
+,trueBegin:3/22/16 0:00,predictedEnd:3/26/2016 23:59
+,trueEnd:3/26/16 23:59
+LIMITED_TDPS TIME_TDSS FREE SHIPPING & RETURNS ON ALL ORDERS,<TDPS> <TDSS> <FREE> <SHIPPING> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:3/4/2016 0:0
+,trueBegin:3/4/16 0:00,predictedEnd:3/5/2016 23:59
+,trueEnd:3/5/16 23:59
+Save 40 % Off Select Styles From 7_BTPHN PM_BTPAP 3_ETPHN : 59_ETPmN AM_ETPAP CT_ETPZ,<NA> <NA> <NA> <NA> <SELECT> <STYLES> <FROM> <BTPHN> <BTPAP> <ETPHN> <:> <ETPmN> <ETPAP> <ETPZ> <~END~>,predictedBegin:2/16/2016 19:0
+,trueBegin:2/16/16 7:00,predictedEnd:2/16/2016 23:59
+,trueEnd:2/17/16 3:59
+between 12_BTPMN / 1_BTPDN / 2015_BTPYN at 12_BTPHN : 01_BTPmN am_BTPAP et_BTPZ and 12_ETPMN / 7_ETPDN / 2015_ETPYN at 11_ETPHN : 59_ETPmN pm_ETPAP et_ETPZ,<BETWEEN> <BTPMN> </> <ETPDN> </> <ETPYN> <AT> <ETPHN> <:> <BTPmN> <BTPAP> <BTPZ> <AND> <ETPMN> </> <ETPDN> </> <ETPYN> <AT> <ETPHN> <:> <ETPmN> <ETPAP> <ETPZ> <~END~>,predictedBegin:12/1/2015 0:1
+,trueBegin:12/1/15 0:01,predictedEnd:12/7/2015 23:59
+,trueEnd:12/7/15 23:59
+More savings IN STORES ONLINE Ends 3_ETPMN / 28_ETPDN Everyone gets AN EXTRA 15 % OFF YOUR ENTIRE PURCHASE USE CODE : EASTER,<NA> <NA> <NA> <NA> <ONLINE> <ENDS> <ETPMN> </> <BTPDN> <ETPDN> <TAKE> <AN> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:3/28/2016 0:0
+,trueBegin:3/17/16 0:00,predictedEnd:3/28/2016 23:59
+,trueEnd:3/28/16 23:59
+On To April_ETPMS,<NA> <NA> <NA> <~END~>,predictedBegin:4/1/2016 0:0
+,trueBegin:4/1/16 0:00,predictedEnd:4/1/2016 23:59
+,trueEnd:4/30/16 23:59
+HURRY LAST_TDPS CHANCE_TDSS ENDS APRIL_ETPMS 3_ETPDN A SPECIAL OFFER,<HURRY> <TDPS> <TDSS> <ENDS> <ETPMS> <ETPDN> <AT> <SPECIAL> <GIFTS> <~END~>,predictedBegin:3/30/2016 0:0
+,trueBegin:3/30/16 0:00,predictedEnd:4/3/2016 23:59
+,trueEnd:4/3/16 23:59
+TODAYS_ETPDS YOUR LUCKY DAY ONLINE CLEARANCE,<NA> <NA> <NA> <DAY> <ONLINE> <CLEARANCE> <~END~>,predictedBegin:3/16/2016 0:0
+,trueBegin:3/16/16 0:00,predictedEnd:3/16/2016 23:59
+,trueEnd:3/16/16 23:59
+Online & In stores ends Sunday_ETPDS Entire store up to 50 % off,<ONLINE> <ONLY> <IN> <STORES> <ENDS> <ETPDS> <ENTIRE> <STORE> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:3/22/2016 0:0
+,trueBegin:3/22/16 0:00,predictedEnd:3/27/2016 23:59
+,trueEnd:3/27/16 23:59
+by 11_ETPHN : 59_ETPmN pm_ETPAP on july_ETPMS 28_ETPDN 2015_ETPYN,<BY> <ETPHN> <:> <ETPmN> <PM> <ON> <ETPMS> <ETPDN> <ETPYN> <~END~>,predictedBegin:7/27/2015 0:0
+,trueBegin:7/27/15 0:00,predictedEnd:7/28/2015 11:59
+,trueEnd:7/28/15 23:59
+FINAL_TDPS HOURS_TDSS LAST CALL CLEARANCE Your last chance to save up to 80 % on our entire stock of clearance,<TDPS> <TDSS> <TDPS> <TDSS> <CLEARANCE> <HURRY> <TDPS> <TDSS> <TO> <SAVE> <UP> <TO> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:3/6/2016 0:0
+,trueBegin:3/6/16 0:00,predictedEnd:3/6/2016 23:59
+,trueEnd:3/6/16 23:59
+48_TDPN hrs_TDSS only,<TDPN> <TDSS> <ONLY> <~END~>,predictedBegin:8/10/2015 0:0
+,trueBegin:8/10/15 0:00,predictedEnd:8/12/2015 23:59
+,trueEnd:8/11/15 23:59
+Online Only 10_BTPHN AM_BTPAP 4_ETPHN PM_ETPAP CT_ETPZ Select Tops 50 % Off,<ONLINE> <ONLY> <BTPHN> <BTPAP> <ETPHN> <ETPAP> <ETPZ> <STANDARD> <SHIPPING> <DIGIT> <%> <NA> <~END~>,predictedBegin:3/8/2016 10:0
+,trueBegin:3/8/16 10:00,predictedEnd:3/8/2016 16:0
+,trueEnd:3/8/16 16:00
+WE CANNOT TELL A LIETHIS IS YOUR LAST_TDPS CHANCE_TDSS BUT YOU CAN SHOP ONLINE UNTIL MIDNIGHT_ETPHS 20 OFF YOUR OURCHASE OF 75 OR MORE USE CODE FABFEB,<NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <OR> <MORE> <NA> <NA> <NA> <~END~>,predictedBegin:2/15/2016 0:0
+,trueBegin:2/15/16 0:00,predictedEnd:2/15/2016 23:59
+,trueEnd:2/15/16 23:59
+FREE SHIPPING FREE RETURNS ALL THE TIME Details below,<FREE> <SHIPPING> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:2/11/2016 0:0
+,trueBegin:2/11/16 0:00,predictedEnd:2/11/2016 23:59
+,trueEnd:3/12/16 23:59
+TODAY_ETPDS ONLY 40 % OFF TIL NOON_ETPHS PT_ETPZ 35 % OFF NOON_BTPHS MIDNIGHT_ETPHS PT_ETPZ INCLUDES SALE STYLES,<ETPDS> <ONLY> <DIGIT> <%> <OFF> <TIL> <ETPHS> <ETPZ> <DIGIT> <%> <OFF> <BTPHS> <ETPHS> <ETPZ> <FLASH> <SALE> <NA> <~END~>,predictedBegin:4/11/2016 12:0
+,trueBegin:4/11/16 0:00,predictedEnd:4/11/2016 23:59
+,trueEnd:4/11/16 23:59
+march_BTPMS 10_BTPDN 14_ETPDN Gap Friends & Family is here 40 % OFF everything Use code FFSALE,<BTPMS> <BTPDN> <ETPDN> <GAP> <FRIENDS> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:3/10/2016 0:0
+,trueBegin:3/10/16 0:00,predictedEnd:3/14/2016 23:59
+,trueEnd:3/14/16 23:59
+ends saturday_ETPDS ,<ENDS> <ETPDS> <~END~>,predictedBegin:10/13/2015 0:0
+,trueBegin:10/13/15 0:00,predictedEnd:10/17/2015 23:59
+,trueEnd:10/17/15 23:59
+NOW_BTPHS THRU SUNDAY_ETPDS 1999 WOMENS BOOTS SHOP NOW,<BTPHS> <THRU> <ETPDS> <DIGIT> <WOMENS> <NA> <NA> <NA> <~END~>,predictedBegin:3/10/2016 0:0
+,trueBegin:3/10/16 0:00,predictedEnd:3/13/2016 23:59
+,trueEnd:3/13/16 23:59
+The Goodwill Sale Ends Saturday_ETPDS March_ETPMS 26_ETPDN Save on nearly everything including your favorite brands that rarely go on sale Limited_TDPS time_TDSS only ends Tuesday_ETPDS March_ETPMS 15_ETPDN Get started with 2 exclusive coupons for our best customers Plus donate in store to earn extra coupons Extra 25 % off an apparel accessory or fine jewelry item Extra 20 % off a cosmetics or fragrance item Promo code : GWBESTMRC 16 SHOP NOW,<THE> <GOODWILL> <SALE> <ENDS> <ETPDS> <ETPMS> <ETPDN> <SAVE> <ON> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <SALE> <TDPS> <TDSS> <ONLY> <ENDS> <ETPDS> <ETPMS> <ETPDN> <GET> <STARTED> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <CODE> <:> <ETPMS> <ETPDN> <SHOP> <NOW> <~END~>,predictedBegin:3/9/2016 0:0
+,trueBegin:3/9/16 0:00,predictedEnd:3/26/2016 23:59
+,trueEnd:3/26/16 23:59
+Email and App only : Free expedited shipping when you spend 50 Order by Mar_ETPMS 22_ETPDN 11_ETPHN : 59_ETPmN AM_ETPAP EST_ETPZ and select Expedited Delivery Applies only to the 48 contiguous United States Use code VIPBOOST,<NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <YOU> <SPEND> <DIGIT> <ORDER> <BY> <ETPMS> <ETPDN> <ETPHN> <:> <BTPmN> <BTPAP> <BTPZ> <AND> <SELECT> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:3/20/2016 0:59
+,trueBegin:3/20/16 0:00,predictedEnd:3/22/2016 11:59
+,trueEnd:3/22/16 23:59
+extended until tuesday_ETPDS,<EXTENDED> <THROUGH> <ETPDS> <~END~>,predictedBegin:8/15/2015 0:0
+,trueBegin:8/15/15 0:00,predictedEnd:8/18/2015 23:59
+,trueEnd:8/18/15 23:59
+last_TDPS chance_TDSS feeling lucky? FOLLOW THE RAINBOW,<TDPS> <TDSS> <ONLY> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:3/17/2016 0:0
+,trueBegin:3/17/16 0:00,predictedEnd:3/17/2016 23:59
+,trueEnd:3/18/16 23:59
+Today_ETPDS Exclusively Online 50 % off Dresses,<ETPDS> <EXCLUSIVELY> <ONLINE> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:3/10/2016 0:0
+,trueBegin:3/10/16 0:00,predictedEnd:3/10/2016 23:59
+,trueEnd:3/10/16 23:59
+ends 12_ETPMN / 13_ETPDN,<ENDS> <ETPMN> </> <ETPDN> <~END~>,predictedBegin:12/1/2015 0:0
+,trueBegin:12/1/15 0:00,predictedEnd:12/13/2015 23:59
+,trueEnd:12/13/15 23:59
+of the season sale starts today_BTPDS march_BTPMS 30_BTPDN,<NA> <NA> <SEASON> <SALE> <STARTS> <BTPDS> <BTPMS> <BTPDN> <~END~>,predictedBegin:3/30/2016 0:0
+,trueBegin:3/30/16 0:00,predictedEnd:3/30/2016 23:59
+,trueEnd:3/30/16 23:59
+No GymBucks? You can still save 20 % off 4 entire purchase Not combinable with GymBucks Use this coupon online or in stores Expires 04_ETPMN / 24_ETPDN / 16_ETPYN Not valid if already redeemed,<NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <IN> <STORES> <EXPIRES> <ETPMN> </> <ETPDN> </> <ETPYN> <NOT> <VALID> <NA> <NA> <NA> <~END~>,predictedBegin:4/16/2016 0:0
+,trueBegin:4/16/16 0:00,predictedEnd:4/24/2016 23:59
+,trueEnd:4/24/16 23:59
+In store & online print coupon valid thru 4_ETPMN / 3_ETPDN,<IN> <STORE> <&> <ONLINE> <NA> <NA> <VALID> <THRU> <ETPMN> </> <ETPDN> <~END~>,predictedBegin:3/30/2016 0:0
+,trueBegin:3/30/16 0:00,predictedEnd:4/3/2016 23:59
+,trueEnd:4/3/16 23:59
+beginning august_BTPMS 12_BTPDN 2015_BTPYN at 6_BTPHN : 00_BTPmN am_BTPAP edt_BTPZ through august_ETPMS 19_ETPDN 2015_ETPYN at 3_ETPHN : 00_ETPmN am_ETPAP pdt_ETPZ,<BEGINNING> <BTPMS> <BTPDN> <BTPYN> <AT> <ETPHN> <:> <BTPmN> <BTPAP> <BTPZ> <THROUGH> <ETPMS> <ETPDN> <ETPYN> <AT> <ETPHN> <:> <ETPmN> <ETPAP> <ETPZ> <~END~>,predictedBegin:8/12/2015 0:0
+,trueBegin:8/12/15 6:00,predictedEnd:8/19/2015 6:0
+,trueEnd:8/17/15 3:00
+Last_TDPS Day_TDSS Free Shipping On All Orders No Minimum Shop Men,<TDPS> <TDSS> <FREE> <SHIPPING> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:3/6/2016 0:0
+,trueBegin:3/6/16 0:00,predictedEnd:3/6/2016 23:59
+,trueEnd:3/6/16 23:59
+Online Exclusive : 40 % OFF Designer Outlet Select Styles While supplies last For a limited_TDPS time_TDSS Restrictions apply Shop Clearance Maternity Clothing,<ONLINE> <EXCLUSIVE> <NA> <NA> <NA> <NA> <NA> <NA> <SELECT> <STYLES> <WHILE> <TDPS> <TDSS> <FOR> <A> <TDPS> <TDSS> <EXCLUSIONS> <APPLY> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:2/15/2016 0:0
+,trueBegin:2/15/16 0:00,predictedEnd:2/17/2016 23:59
+,trueEnd:2/15/16 23:59
+Ultimate intimates event now_BTPHS thru March_ETPMS 23_ETPDN in store & online,<NA> <NA> <NA> <NOW> <THRU> <ETPMS> <ETPDN> <IN> <STORE> <&> <ONLINE> <~END~>,predictedBegin:3/16/2016 0:0
+,trueBegin:3/16/16 0:00,predictedEnd:3/23/2016 23:59
+,trueEnd:3/23/16 23:59
+LAST_TDPS CHANCE_TDSS EXTRA 25 % OFF SALE APPAREL,<TDPS> <TDSS> <EXTRA> <DIGIT> <%> <OFF> <NA> <NA> <~END~>,predictedBegin:3/4/2016 0:0
+,trueBegin:3/4/16 0:00,predictedEnd:3/4/2016 23:59
+,trueEnd:3/4/16 23:59
+ENDS_TDPS SOON_TDSS,<TDPS> <TDSS> <~END~>,predictedBegin:3/12/2016 0:0
+,trueBegin:3/12/16 0:00,predictedEnd:3/13/2016 23:59
+,trueEnd:3/13/16 23:59
+25 % off FINAL_TDPS DAY_TDSS The Creek jeans HAVE YOU TRIED THEM? Great fitting jeans in our unique stretch denim that controls like a hug but never squeezes,<DIGIT> <%> <OFF> <TDPS> <TDSS> <THE> <CREEK> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:3/30/2016 0:0
+,trueBegin:3/30/16 0:00,predictedEnd:3/30/2016 23:59
+,trueEnd:3/30/16 23:59
+YELLOW DOT CLEARANCEThousands of new items added Up to 85 % off original prices when you take an extra 50 60 % off Yellow Dot extra 70 80 % off Black Dot Ends Wednesday_ETPDS February_ETPMS 17_ETPDN For extra 30 % off Yellow and Black Dot womens mens and kids apparel use Promo code DOT 4 FEB 1616 For extra 20 % off Yellow and Black footwear use Promo code DOT 4 SHOES 16 PRINT COUPONS,<NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <ORIGINAL> <PRICES> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <BLACK> <DOT> <ENDS> <ETPDS> <ETPMS> <ETPDN> <FOR> <EXTRA> <DIGIT> <%> <OFF> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <KIDS> <TDSS> <USE> <PROMO> <CODE> <NA> <NA> <NA> <NA> <FOR> <EXTRA> <DIGIT> <%> <OFF> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:2/15/2016 0:0
+,trueBegin:2/15/16 0:00,predictedEnd:2/17/2016 23:59
+,trueEnd:2/17/16 23:59
+Exclusively FOR OUR EMAIL CUSTOMERS Ends Wednesday_ETPDS March_ETPMS 2_ETPDN EXTRA 25 % OFF SALE PRICE APPAREL EXTRA 15 % OFF SALE PRICE SHOES ACCESSORIES OUTERWEAR AND MORE Promo code : MARCH 25 PASS PRINT COUPON,<NA> <NA> <NA> <NA> <CUSTOMERS> <ENDS> <ETPDS> <ETPMS> <ETPDN> <EXTRA> <DIGIT> <%> <OFF> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:2/20/2016 0:0
+,trueBegin:2/20/16 0:00,predictedEnd:3/2/2016 23:59
+,trueEnd:3/2/16 23:59
+Flash_TDPS deals,<TDPS> <TDSS> <~END~>,predictedBegin:3/28/2016 0:0
+,trueBegin:3/28/16 0:00,predictedEnd:3/28/2016 23:59
+,trueEnd:3/28/16 23:59
+final_TDPS hours_TDSS expires tonight_ETPHS at 1_ETPHN : 59_ETPmN am_ETPAP et_ETPZ,<TDPS> <TDSS> <ONLY> <ETPDS> <AT> <ETPHN> <:> <ETPmN> <ETPAP> <ETPZ> <~END~>,predictedBegin:7/27/2015 0:0
+,trueBegin:7/27/15 0:00,predictedEnd:7/27/2015 1:59
+,trueEnd:7/27/15 23:59
+our sale is on sale Extra 50 % 2 off clearance for saving sup to 80 % Shop Now ~*Select styles & limited_TDPS time_TDSS only While supplies last Prices may vary in stores & online & in Canada,<NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <STYLES> <WHILE> <TDPS> <TDSS> <ONLY> <WHILE> <TDPS> <TDSS> <PRICES> <STARTS> <BTPDS> <IN> <STORES> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:3/1/2016 0:0
+,trueBegin:3/1/16 0:00,predictedEnd:3/3/2016 23:59
+,trueEnd:3/2/16 23:59
+Order today_ETPDS to get it by Easter Last_TDPS Day_TDSS Online Only 60 % 3 off dressed up styles,<TDPS> <TDSS> <TO> <GET> <IT> <JUST> <SPOTTED> <TDPS> <TDSS> <ONLINE> <ONLY> <DIGIT> <%> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:3/15/2016 0:0
+,trueBegin:3/15/16 0:00,predictedEnd:3/15/2016 23:59
+,trueEnd:3/15/16 23:59
+THROUGH MARCH_ETPMS 13_ETPDN THIS MONTHS POP IN SHOP PROUDLY PRESENTS HEARTBREAKERS IIA SHOWCASE OF EVOLVING MENS STYLE FEATURING LIMITED EDITION CAREFULLY CONSIDERED CLOTHING AND PRODUCTS BY UPCOMING NEED TO KNOW DESIGNERS HEARTBREAKERS II IS THE FOLLOW UP TO OUR 2014 MENSWEAR POP IN SHOP FOCUSING ON THE IDEA THAT IN STYLE AS IN LIFE BASIC WONT CUT IT SHOP NOW,<THROUGH> <ETPMS> <ETPDN> <ONLINE> <ONLY> <POP> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:3/4/2016 0:0
+,trueBegin:3/4/16 0:00,predictedEnd:3/13/2016 23:59
+,trueEnd:3/13/16 23:59
+Yellow Dot Clearance New Reductions Taken Save up to 75 % on original prices when you take an extra 50 60 % off Yellow Dot and an extra 70 % off Black Dot Ends Saturday_ETPDS February_ETPMS 15_ETPDN Take an extra 30 % off your Yellow Dot or Black Dot APPAREL purchase Promo code : YLWAPRLDT 30 Shop Now,<NA> <NA> <NA> <NA> <NA> <NA> <SAVE> <UP> <TO> <NA> <NA> <NA> <ORIGINAL> <PRICES> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <BLACK> <DOT> <ENDS> <ETPDS> <ETPMS> <ETPDN> <TAKE> <AN> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <CODE> <:> <ETPMS> <ETPDN> <SHOP> <NOW> <~END~>,predictedBegin:2/14/2016 0:0
+,trueBegin:2/14/16 0:00,predictedEnd:2/14/2016 23:59
+,trueEnd:2/15/16 23:59
+beginning august_BTPMS 13_BTPDN 2015_BTPYN at 6_BTPHN : 00_BTPmN am_BTPAP edt_BTPZ through august_ETPMS 17_ETPDN 2015_ETPYN at 3_ETPHN : 00_ETPmN am_ETPAP pdt_ETPZ,<BEGINNING> <BTPMS> <BTPDN> <BTPYN> <AT> <ETPHN> <:> <BTPmN> <BTPAP> <BTPZ> <THROUGH> <ETPMS> <ETPDN> <ETPYN> <AT> <ETPHN> <:> <ETPmN> <ETPAP> <ETPZ> <~END~>,predictedBegin:8/13/2015 0:0
+,trueBegin:8/13/15 6:00,predictedEnd:8/17/2015 6:0
+,trueEnd:8/17/15 3:00
+Were celebrating MOM with stories and memories now_BTPHS through Mother_TDPS Day_TDSS May_ETPMS 8_ETPDN th Visit us on Facebook and SHARE yoursJOIN IN,<NA> <NA> <NA> <NA> <NA> <NA> <NA> <NOW> <THROUGH> <TDPS> <TDSS> <ETPMS> <ETPDN> <TH> <VISIT> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:4/12/2016 0:0
+,trueBegin:4/12/16 0:00,predictedEnd:5/8/2016 23:59
+,trueEnd:5/8/16 23:59
+ends at midnight_ETPHS,<ENDS> <AT> <ETPHS> <~END~>,predictedBegin:10/13/2015 0:0
+,trueBegin:10/13/15 0:00,predictedEnd:10/13/2015 23:59
+,trueEnd:10/13/15 23:59
+last_TDPS chance_TDSS,<TDPS> <TDSS> <~END~>,predictedBegin:7/26/2015 0:0
+,trueBegin:7/26/15 0:00,predictedEnd:7/26/2015 23:59
+,trueEnd:7/26/15 23:59
+earn 1 point for every dollar spent get a 5 reward for every 100 points enroll today_ETPDS,<EARN> <DIGIT> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <POINTS> <ENDS> <ETPDS> <~END~>,predictedBegin:3/7/2016 0:0
+,trueBegin:3/7/16 0:00,predictedEnd:3/7/2016 23:59
+,trueEnd:3/7/16 23:59
+IN STORE & ONLINE FRIDAY_ETPDS 4_ETPMN / 22_ETPDN,<IN> <STORE> <&> <ONLINE> <ETPDS> <ETPMN> </> <ETPDN> <~END~>,predictedBegin:4/22/2016 0:0
+,trueBegin:4/22/16 0:00,predictedEnd:4/22/2016 23:59
+,trueEnd:4/22/16 23:59
+Hurry Ends Tonight_ETPHS,<HURRY> <ENDS> <ETPHS> <~END~>,predictedBegin:3/12/2016 0:0
+,trueBegin:3/12/16 0:00,predictedEnd:3/12/2016 23:59
+,trueEnd:3/12/16 23:59
+TODAY_ETPDS 4_ETPMN / 12_ETPDN ONLINE ONLY,<ETPDS> <ETPMN> </> <ETPDN> <ONLINE> <ONLY> <~END~>,predictedBegin:4/12/2016 0:0
+,trueBegin:4/12/16 0:00,predictedEnd:4/12/2016 23:59
+,trueEnd:4/12/16 23:59
+Online Exclusive Flash_TDPS Sale Enjoy 50 % Off 50 select styles Shop now,<ONLINE> <EXCLUSIVE> <TDPS> <SALE> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:2/17/2016 0:0
+,trueBegin:2/17/16 0:00,predictedEnd:2/17/2016 23:59
+,trueEnd:2/17/16 23:59
+Today_ETPDS more is more on kids items,<BTPDS> <MORE> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:3/22/2016 0:0
+,trueBegin:3/22/16 0:00,predictedEnd:3/22/2016 23:59
+,trueEnd:3/22/16 23:59
+today_ETPDS only SPRING BREAK OR BUST BUY 5 ITEMS SAVE 40 % BUY 3 ITEMS SAVE 30 % BUY 1 ITEM SAVE 20 % ,<ETPDS> <ONLY> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:2/29/2016 0:0
+,trueBegin:2/29/16 0:00,predictedEnd:2/29/2016 23:59
+,trueEnd:2/29/16 23:59
+expires on august_ETPMS 31_ETPDN st 2015_ETPYN,<EXPIRES> <ON> <ETPMS> <ETPDN> </> <ETPDN> <~END~>,predictedBegin:8/22/2015 0:0
+,trueBegin:8/22/15 0:00,predictedEnd:8/31/2015 23:59
+,trueEnd:8/31/15 23:59
+The Goodwill Sale Ends Saturday_ETPDS March_ETPMS 26_ETPDN Save on nearly everything including your favorite brands that rarely go on sale Limited_TDPS time_TDSS only ends Tuesday_ETPDS March_ETPMS 15_ETPDN Get started with 2 exclusive coupons for our best customers Plus donate in store to earn extra coupons Extra 25 % off an apparel accessory or fine jewelry item Extra 20 % off a cosmetics or fragrance item Promo code : GWBESTMRC 16 Print coupons,<THE> <GOODWILL> <SALE> <ENDS> <ETPDS> <ETPMS> <ETPDN> <SAVE> <ON> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <SALE> <TDPS> <TDSS> <ONLY> <ENDS> <ETPDS> <ETPMS> <ETPDN> <GET> <STARTED> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:3/9/2016 0:0
+,trueBegin:3/9/16 0:00,predictedEnd:3/26/2016 23:59
+,trueEnd:3/26/16 23:59
+by 8_ETPMN / 19_ETPDN,<BY> <ETPHN> </> <ETPDN> <~END~>,predictedBegin:8/1/2015 0:0
+,trueBegin:8/1/15 0:00,predictedEnd:8/19/2015 8:0
+,trueEnd:8/19/15 23:59
+Navy Tasmanian Tux _ Feb_ETPMS 12_ETPDN,<NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:2/11/2016 0:0
+,trueBegin:2/11/16 0:00,predictedEnd:2/11/2016 23:59
+,trueEnd:2/12/16 23:59
+ends today_ETPDS 8_ETPMN 23_ETPDN,<ENDS> <ETPDS> <ETPDN> <ETPYN> <~END~>,predictedBegin:8/23/2015 0:0
+,trueBegin:8/23/15 0:00,predictedEnd:8/8/2015 23:59
+,trueEnd:8/23/15 23:59
+24_TDPN hours_TDSS left,<TDPN> <TDSS> <LEFT> <~END~>,predictedBegin:10/13/2015 0:0
+,trueBegin:10/13/15 0:00,predictedEnd:10/14/2015 23:59
+,trueEnd:10/13/15 23:59
+Two_TDPS Days_TDSS Only Exclusively Online All Clearance 60 70 % Off 5 Shipping on All Orders,<TDPS> <TDSS> <ONLY> <EXCLUSIVELY> <ONLINE> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:3/3/2016 0:0
+,trueBegin:3/3/16 0:00,predictedEnd:3/4/2016 23:59
+,trueEnd:4/3/16 23:59
+Get Egg Cited Shop Markdowns up to 75 % OFF One_TDPS Day_TDSS Clearance Event Ends at Midnight_ETPHS Shop Clearance up to 75 % OFF,<NA> <NA> <NA> <NA> <NA> <NA> <NA> <DIGIT> <%> <OFF> <TDPS> <TDSS> <CLEARANCE> <EVENT> <ENDS> <AT> <ETPHS> <SHOP> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:3/27/2016 0:0
+,trueBegin:3/27/16 0:00,predictedEnd:3/27/2016 23:59
+,trueEnd:3/27/16 23:59
+Last_TDPS Chance_TDSS First Pair As Low As 10 : Shop Now,<TDPS> <TDSS> <FIRST> <PAIR> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:2/29/2016 0:0
+,trueBegin:2/29/16 0:00,predictedEnd:2/29/2016 23:59
+,trueEnd:3/1/16 23:59
+dates into december_ETPMS,<DATES> <INTO> <ETPMS> <~END~>,predictedBegin:8/16/2015 0:0
+,trueBegin:12/1/15 0:00,predictedEnd:12/31/2015 23:59
+,trueEnd:12/31/15 23:59
+Today_ETPDS only in stores 3_BTPHN 6_ETPHN pm_ETPAP local online all day : Buy 1 Get 1 50 % off unlimited Excludes clearance and Brands We Love Valid on items of equal or lesser value SHOP NOW,<ETPDS> <ONLY> <IN> <STORES> <BTPHN> <ETPHN> <ETPAP> <LOCAL> <ONLINE> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <VALID> <ON> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:3/12/2016 3:0
+,trueBegin:3/12/16 15:00,predictedEnd:3/12/2016 18:59
+,trueEnd:3/12/16 18:00
+beginning august_BTPMS 19_BTPDN 2015_BTPYN at 6_BTPHN : 00_BTPmN am_BTPAP edt_BTPZ through august_ETPMS 27_ETPDN 2015_ETPYN at 3_ETPHN : 00_ETPmN am_ETPAP pdt_ETPZ,<BEGINNING> <BTPMS> <BTPDN> <BTPYN> <AT> <ETPHN> <:> <BTPmN> <BTPAP> <BTPZ> <THROUGH> <ETPMS> <ETPDN> <ETPYN> <AT> <ETPHN> <:> <ETPmN> <ETPAP> <ETPZ> <~END~>,predictedBegin:8/19/2015 0:0
+,trueBegin:8/19/15 6:00,predictedEnd:8/27/2015 6:0
+,trueEnd:8/27/15 3:00
+ends 8_ETPMN / 28_ETPDN,<ENDS> <ETPMN> </> <ETPDN> <~END~>,predictedBegin:8/25/2015 0:0
+,trueBegin:8/25/15 0:00,predictedEnd:8/28/2015 23:59
+,trueEnd:8/28/15 23:59
+Email Exclusive : Online Today_ETPDS Only Monday_ETPDS March_ETPMS 7_ETPDN Take an extra 30 % off sale price apparel and an extra 20 % off sale price shoes accessories outerwear and more Promo code : MAR 07 SAVE 30 Shop now,<NA> <NA> <NA> <ONLINE> <ETPDS> <ONLY> <ETPDS> <ETPMS> <ETPDN> <TAKE> <AN> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <CODE> <:> <ETPMS> <ETPDN> <SAVE> <NA> <NA> <NA> <~END~>,predictedBegin:3/7/2016 0:0
+,trueBegin:3/7/16 0:00,predictedEnd:3/7/2016 23:59
+,trueEnd:3/7/16 23:59
+Now_BTPHS Until Mar_ETPMS 27_ETPDN Clear the Rack Save Up to 75 % with Extra 25 % Off Clearance Shop Now,<BTPHS> <UNTIL> <ETPMS> <ETPDN> <CLEAR> <THE> <ETPDN> <SAVE> <UP> <TO> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:3/22/2016 0:0
+,trueBegin:3/22/16 0:00,predictedEnd:3/27/2016 23:59
+,trueEnd:3/27/16 23:59
+ONLINE ONLY TODAY_ETPDS ONLY 4_ETPMN / 10_ETPDN 50 % OFF DRESSES,<ONLINE> <ONLY> <ETPDS> <ONLY> <ETPMN> </> <ETPDN> <DIGIT> <%> <OFF> <NA> <~END~>,predictedBegin:4/10/2016 0:0
+,trueBegin:4/10/16 0:00,predictedEnd:4/10/2016 23:59
+,trueEnd:4/10/16 23:59
+Club 50 is the new 40 & fabulous 40 has never looked better Now everyone 40 years & up can get an EXTRA 20 % OFF every Tuesday_TPRD even on yes items fragrances & our beauty bar Because youre never too young for extra savings,<NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <DIGIT> <%> <OFF> <EVERY> <TPRD> <EVEN> <ON> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:4/16/2016 0:0
+,trueBegin:4/19/16 0:00,predictedEnd:4/16/2016 23:59
+,trueEnd:4/19/16 23:59
+Ends Tomorrow_ETPDS Spring It On 40 % OFF AT GAP & BANANA REPUBLIC 35 % OFF AT OLD NAVY,<ENDS> <ETPDS> <ETPDS> <IT> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:3/6/2016 0:0
+,trueBegin:3/6/16 0:00,predictedEnd:3/7/2016 23:59
+,trueEnd:3/7/16 23:59
+Ends tomorrow_ETPDS 4_ETPMN / 17_ETPDN LAST_TDPS CHANCE_TDSS TO REDEEM STYLECAH,<ENDS> <ETPDS> <ETPMN> </> <ETPDN> <TDPS> <TDSS> <TO> <REDEEM> <STYLECAH> <~END~>,predictedBegin:4/16/2016 0:0
+,trueBegin:4/16/16 0:00,predictedEnd:4/17/2016 23:59
+,trueEnd:4/17/16 23:59
+Online Exclusive 3_TDPN Days_TDSS Only Extra 25 Off 3 Orders Of 100 Or More Use Code : EXTRA 25,<ONLINE> <EXCLUSIVE> <TDPN> <TDSS> <ONLY> <EXTRA> <DIGIT> <OFF> <NA> <NA> <NA> <NA> <OR> <MORE> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:3/25/2016 0:0
+,trueBegin:3/25/16 0:00,predictedEnd:3/27/2016 23:59
+,trueEnd:3/27/16 23:59
+is available for a limited_TDPS time_TDSS only,<NA> <NA> <FOR> <A> <TDPS> <TDSS> <ONLY> <~END~>,predictedBegin:7/27/2015 0:0
+,trueBegin:7/27/15 0:00,predictedEnd:7/28/2015 23:59
+,trueEnd:7/28/15 23:59
+Last_TDPS Day_TDSS 20 % Off Entire Purchase Use Code : 30469,<TDPS> <TDSS> <DIGIT> <%> <OFF> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:2/20/2016 0:0
+,trueBegin:2/20/16 0:00,predictedEnd:2/20/2016 23:59
+,trueEnd:2/20/16 23:59
+mom mother_TDPS day_TDSS 05_ETPMN 08_ETPDN 16_ETPYN,<HURRY> <TDPS> <TDSS> <DIGIT> <NA> <NA> <~END~>,predictedBegin:4/19/2016 0:0
+,trueBegin:4/19/16 0:00,predictedEnd:5/8/2016 23:59
+,trueEnd:5/8/16 23:59
+FLASH SALE 10_BTPHN AM_BTPAP 4_ETPHN PM_ETPAP CST_ETPZ ONLINE TODAY_ETPDS ONLY BONUS BUYS 60 85 % off Select items from your favorite categories : Womens Mens Kids Shoes Accessories Shop All,<FLASH> <SALE> <BTPHN> <BTPAP> <ETPHN> <ETPAP> <LOCAL> <ONLINE> <ETPDS> <ONLY> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:2/20/2016 10:0
+,trueBegin:2/20/16 10:00,predictedEnd:2/20/2016 16:59
+,trueEnd:2/20/16 16:00
+ENDS TONIGHT_ETPHS,<ENDS> <ETPHS> <~END~>,predictedBegin:3/12/2016 0:0
+,trueBegin:3/12/16 0:00,predictedEnd:3/12/2016 23:59
+,trueEnd:3/12/16 23:59
+Today_ETPDS more is more on home accessories,<BTPDS> <MORE> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:3/20/2016 0:0
+,trueBegin:3/20/16 0:00,predictedEnd:3/20/2016 23:59
+,trueEnd:3/20/16 23:59
+25 % off Nike Sale Select styles Offers and coupons do not apply Ends March_ETPMS 26_ETPDN Shop now,<NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <ENDS> <ETPMS> <ETPDN> <SHOP> <NOW> <~END~>,predictedBegin:3/20/2016 0:0
+,trueBegin:3/20/16 0:00,predictedEnd:3/26/2016 23:59
+,trueEnd:3/26/16 23:59
+TOMORROW_ETPDS IN STORE ONLY MONDAY_ETPDS FEBRUARY_ETPMS 15_ETPDN Be one of the first 200 customers in teh door and get a 20 Quick Card good on your 30 purchase ODNT MISS OUT MOST DOORS OPEN AT 9_BTPHN AM_BTPAP FIND A STORE,<ETPDS> <IN> <STORE> <BTPDS> <BTPDS> <BTPMS> <BTPDN> <BE> <ONE> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <ONLY> <MOST> <STORES> <OPEN> <AT> <BTPHN> <BTPAP> <FIND> <A> <NA> <~END~>,predictedBegin:2/15/2016 9:0
+,trueBegin:2/14/16 0:00,predictedEnd:2/16/2016 23:59
+,trueEnd:2/15/16 23:59
+through august_ETPMS 25_ETPDN 2015_ETPYN at 11_ETPHN : 59_ETPmN pm_ETPAP et_ETPZ,<THROUGH> <ETPMS> <ETPDN> <ETPYN> <AT> <ETPHN> <:> <ETPmN> <ETPAP> <ETPZ> <~END~>,predictedBegin:8/22/2015 0:0
+,trueBegin:8/22/15 0:00,predictedEnd:8/25/2015 23:59
+,trueEnd:8/25/15 23:59
+March_EPTMS 15_ETPMN th March_ETPMS Madness CollegiateBasketball Sports Charms,<BTPMS> <BTPDN> <TH> <VISIT> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:3/15/2016 0:0
+,trueBegin:3/9/16 0:00,predictedEnd:3/15/2016 23:59
+,trueEnd:3/15/16 23:59
+TODAY_ETPDS ONLY 35 % OFF HUNDREDS OF STYLES Use code STYLE SHOP NOW,<ETPDS> <ONLY> <DIGIT> <%> <OFF> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:3/16/2016 0:0
+,trueBegin:3/16/16 0:00,predictedEnd:3/16/2016 23:59
+,trueEnd:3/16/16 23:59
+In stores & online 2_TDPN days_TDSS only Extra 20 % 1 Off Entire Purchase,<NA> <NA> <&> <ONLINE> <TDPS> <TDSS> <ONLY> <EXTRA> <DIGIT> <%> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:4/11/2016 0:0
+,trueBegin:4/11/16 0:00,predictedEnd:4/12/2016 23:59
+,trueEnd:4/12/16 23:59
+The Goodwill Sale Ends Today_ETPDS Saturday_ETPDS March_ETPMS 26_ETPDN Save on nearly everything including your favorite brands that rarely go on sale Just for you Get started with Two Exclusive Goodwill Sale Coupons Plus donate in store to earn extra coupons Save an extra 25 % on a single item Save an extra 15 % on a single cosmetics or fragrance item Promo code : MARCHGDWL 16 Ends Today_ETPDS Saturday_ETPDS March_ETPMS 26_ETPDN Take 50 off your 100 purchase Promo code : ZEASTER 5016 Print Coupons,<THE> <GOODWILL> <SALE> <ENDS> <ETPDS> <ETPDS> <ETPMS> <ETPDN> <SAVE> <ON> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <ENDS> <ETPDS> <ETPDS> <ETPMS> <ETPDN> <TAKE> <DIGIT> <OFF> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:3/26/2016 0:0
+,trueBegin:3/26/16 0:00,predictedEnd:4/26/2016 23:59
+,trueEnd:3/26/16 23:59
+Last_TDPS Chance_TDSS Free Shipping with No Minimum Purchase Free Returns,<TDPS> <TDSS> <FREE> <SHIPPING> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:2/15/2016 0:0
+,trueBegin:2/15/16 0:00,predictedEnd:2/15/2016 23:59
+,trueEnd:2/15/16 23:59
+FLASH_TDPS SALE Starts Now SAVE Up to 65 % OFF HURRY Only 12_TDPN hours_TDSS to SAVE FREE shipping over 100,<FLASH> <SALE> <STARTS> <BTPDS> <STOCK> <UP> <TO> <NA> <NA> <NA> <NA> <ONLY> <TDPN> <TDSS> <TO> <SAVE> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:4/12/2016 0:0
+,trueBegin:4/12/16 0:00,predictedEnd:4/12/2016 12:0
+,trueEnd:4/12/16 23:59
+Online & In stores ends tonight_ETPDS Entire store up to 50 % off,<ONLINE> <ONLY> <IN> <STORES> <ENDS> <ETPHS> <ENTIRE> <STORE> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:3/27/2016 0:0
+,trueBegin:3/27/16 0:00,predictedEnd:3/27/2016 23:59
+,trueEnd:3/27/16 23:59
+SPRING FORWARD SALE IN STORE AND ONLINE NOW_BTPHS THOUGH SUNDAY_ETPDS MARCH_ETPMS 13_ETPDN TH 20 OFF YOUR PURCHASE OF 75 OR MORE USE CODE SPRING 20,<NA> <NA> <NA> <NA> <NA> <AND> <ONLINE> <BTPHS> <THOUGH> <ETPDS> <ETPMS> <ETPDN> <TH> <DIGIT> <OFF> <NA> <NA> <NA> <NA> <OR> <MORE> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:3/10/2016 0:0
+,trueBegin:3/10/16 0:00,predictedEnd:3/13/2016 23:59
+,trueEnd:3/13/16 23:59
+FINAL_TDPS DAYS_TDSS In Store & Online Presidents Day Event ALL CLEARANCE NOW 999,<TDPS> <TDSS> <IN> <STORE> <&> <ONLINE> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:2/14/2016 0:0
+,trueBegin:2/14/16 0:00,predictedEnd:2/14/2016 23:59
+,trueEnd:2/14/16 23:59
+Deals of the day 98 All cotton poplin summer suits reg 350 Shop all Offers Online only select styles while supplies_TDPS last_TDSS,<NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <SELECT> <STYLES> <WHILE> <TDPS> <TDSS> <~END~>,predictedBegin:4/5/2016 0:0
+,trueBegin:4/5/16 0:00,predictedEnd:4/6/2016 23:59
+,trueEnd:4/6/16 23:59
+expires on august_ETPMS 19_ETPDN at 3_ETPHN : 00_ETPmN am_ETPAP est_ETPZ,<EXPIRES> <ON> <ETPMS> <ETPDN> <AT> <ETPHN> <:> <ETPmN> <ETPAP> <ETPZ> <~END~>,predictedBegin:8/1/2015 0:0
+,trueBegin:8/1/15 0:00,predictedEnd:8/19/2015 3:0
+,trueEnd:8/19/15 3:00
+Happy Earth_TDPS Day_TDSS Celebrate Earth_TDPS Day_TDSS with the Cat Shop Kliban Cat Collection,<HAPPY> <TDPS> <TDSS> <ONLINE> <TDPS> <TDSS> <OF> <THE> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:4/22/2016 0:0
+,trueBegin:4/22/16 0:00,predictedEnd:4/22/2016 23:59
+,trueEnd:4/22/16 23:59
+Today_ETPDS only in stores & online all jeans 20 Excludes clearance and Brands We Love SHOP JEANS,<ETPDS> <ONLY> <IN> <STORES> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:2/15/2016 0:0
+,trueBegin:2/15/16 0:00,predictedEnd:2/15/2016 23:59
+,trueEnd:2/15/16 23:59
+10 spend 50 get FOR EVERY 50 SPENT MARCH_BTPMS 30_BTPDN APRIL_ETPMS 3_ETPDN GET A 10 COUPON REDEEMABLE APRIL_BTPMS 8_BTPDN 14_ETPDN 2016_ETPYN,<NA> <NA> <NA> <NA> <NA> <NA> <DIGIT> <SPENT> <BTPMS> <BTPDN> <ETPMS> <ETPDN> <GET> <A> <NA> <COUPON> <REDEEMABLE> <BTPMS> <BTPDN> <ETPDN> <ETPYN> <~END~>,predictedBegin:3/8/2016 0:0
+,trueBegin:3/30/16 0:00,predictedEnd:4/14/2016 23:59
+,trueEnd:4/14/16 23:59
+Thru April_ETPMS 10_ETPDN th 2016_ETPYN Free Umbrella with a single same day Brighton purchase of 100 or more in store Learn More,<THRU> <ETPMS> <ETPDN> <TH> <ETPYN> <FREE> <NA> <NA> <A> <SINGLE> <TDPS> <TDSS> <ONLY> <NA> <NA> <NA> <OR> <MORE> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:3/30/2016 0:0
+,trueBegin:3/30/16 0:00,predictedEnd:4/10/2016 23:59
+,trueEnd:4/10/16 23:59
+IN STORE & ONLINE LIMITED_TDPS TIME_TDSS DONT HAVE SUPER CASH? YOU STILL SAVE 20 % ,<IN> <STORE> <&> <ONLINE> <TDPS> <TDSS> <DONT> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:4/8/2016 0:0
+,trueBegin:4/8/16 0:00,predictedEnd:4/9/2016 23:59
+,trueEnd:4/9/16 23:59
+event ends august_ETPMS 29_ETPDN 9_ETPHN : 00_ETPmN am_ETPAP pt_ETPZ,<EVENT> <ENDS> <ETPMS> <ETPDN> <ETPHN> <:> <ETPmN> <ETPAP> <ETPZ> <~END~>,predictedBegin:8/16/2015 0:0
+,trueBegin:8/16/15 0:00,predictedEnd:8/29/2015 9:0
+,trueEnd:8/29/15 9:00
+Fill Your Closet : New Markdowns Save up to 75 % OFF Shop Sunday_ETPDS Savings Sale,<NA> <NA> <NA> <NA> <NA> <NA> <SAVE> <UP> <TO> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:4/9/2016 0:0
+,trueBegin:4/10/16 0:00,predictedEnd:4/9/2016 23:59
+,trueEnd:4/10/16 23:59
+Presidents Day Sale Ends Thursday_ETPDS February_ETPMS 18_ETPDN Valentine_TDPS Day_TDSS is Sunday_ETPDS February_ETPMS 14_ETPDN Save up to 75 % off storewide sale & clearance Take up to an extra 25 % off sale price merchandise Promo code : PRESIDENT 16 In store only 10 off your 25 purchase Shop Now,<TDPS> <TDSS> <SALE> <ENDS> <ETPDS> <ETPMS> <ETPDN> <TDPS> <TDSS> <IS> <ETPDS> <ETPMS> <ETPDN> <SAVE> <UP> <TO> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:2/12/2016 0:0
+,trueBegin:2/12/16 0:00,predictedEnd:2/18/2016 23:59
+,trueEnd:2/18/16 23:59
+Tuesday_ETPDS Shoesday Sale : Get up to 60 % off select mens and womens shoes at KennethColecom today_ETPDS only Shop Mens,<ETPDS> <ONLINE> <SALE> <:> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <AT> <SPECIAL> <ETPDS> <ONLY> <SHOP> <MENS> <~END~>,predictedBegin:2/29/2016 0:0
+,trueBegin:3/1/16 0:00,predictedEnd:3/1/2016 23:59
+,trueEnd:3/1/16 23:59
+Today_ETPDS & Online Only 50 % 2 off entire site including new arrivals No exclusions Shop Now,<ETPDS> <&> <ONLINE> <ONLY> <DIGIT> <%> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:3/6/2016 0:0
+,trueBegin:3/6/16 0:00,predictedEnd:3/6/2016 23:59
+,trueEnd:3/6/16 23:59
+40 % OFF SELECT MENS AND WOMENS CLOTHING FOR A LIMITED_TDPS TIME_TDSS ONLY SHOP MENS,<NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <FOR> <A> <TDPS> <TDSS> <ONLY> <SHOP> <MENS> <~END~>,predictedBegin:3/30/2016 0:0
+,trueBegin:3/30/16 0:00,predictedEnd:3/31/2016 23:59
+,trueEnd:3/31/16 23:59
+3_TDPN Days_TDSS of Dress Deals Start Today_BTPDS,<TDPN> <TDSS> <OF> <ETPDS> <DEALS> <END> <ETPDS> <~END~>,predictedBegin:3/20/2016 0:0
+,trueBegin:3/20/16 0:00,predictedEnd:3/22/2016 23:59
+,trueEnd:3/22/16 23:59
+MARCH_BTPMS 29_BTPDN APRIL_ETPMS 11_ETPDN MENS SUITS 2 FOR 499,<BTPMS> <BTPDN> <ETPMS> <ETPDN> <DIGIT> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:3/29/2016 0:0
+,trueBegin:3/29/16 0:00,predictedEnd:4/11/2016 23:59
+,trueEnd:4/11/16 23:59
+Starts Now_BTPHS The North Face Limited_TDPS time_TDSS online sale event In this brands gear all conditions are peak conditions Shop Women,<STARTS> <BTPDS> <THE> <NORTH> <FACE> <TDPS> <TDSS> <ONLINE> <SALE> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:3/20/2016 0:0
+,trueBegin:3/20/16 0:00,predictedEnd:3/21/2016 23:59
+,trueEnd:3/21/16 23:59
+Final_TDPS Hours_TDSS Online Only,<TDPS> <TDSS> <ONLINE> <ONLY> <~END~>,predictedBegin:4/6/2016 0:0
+,trueBegin:4/6/16 0:00,predictedEnd:4/6/2016 23:59
+,trueEnd:4/6/16 23:59
+Early Access : 1_TDPN Day_TDSS All Styles Just 32 ONE_TDPS DAY_TDSS ONLY Shop 32 Sale,<NA> <NA> <NA> <NA> <NA> <NA> <NA> <JUST> <DIGIT> <TDPS> <TDSS> <ONLY> <SHOP> <NA> <NA> <~END~>,predictedBegin:3/20/2016 0:0
+,trueBegin:3/20/16 0:00,predictedEnd:3/20/2016 23:59
+,trueEnd:3/20/16 23:59
+20 % Off ALL Dresses when You Spend 100 Use FROLIC 20 Ends 3_ETPMN / 12_ETPDN 9_ETPHN am_ETPAP ET_ETPZ,<NA> <NA> <NA> <NA> <NA> <NA> <YOU> <SPEND> <DIGIT> <NA> <NA> <NA> <ENDS> <ETPMN> </> <ETPDN> <ETPHN> <ETPAP> <ETPZ> <~END~>,predictedBegin:3/9/2016 0:0
+,trueBegin:3/9/16 0:00,predictedEnd:3/12/2016 9:0
+,trueEnd:3/12/16 9:00
+4_TDPN Days_TDSS Only Up to 70 % off throughout the store including all : ,<TDPN> <TDSS> <ONLY> <UP> <TO> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:4/6/2016 0:0
+,trueBegin:4/6/16 0:00,predictedEnd:4/9/2016 23:59
+,trueEnd:4/9/16 23:59
+Spend 50 get 10 now_BTPHS thru April_ETPMS 3_ETPDN Get a 10 coupon redeemable April_BTPMS 8_BTPDN 14_ETPDN,<NA> <NA> <NA> <NA> <NOW> <THRU> <ETPMS> <ETPDN> <GET> <A> <NA> <COUPON> <REDEEMABLE> <BTPMS> <BTPDN> <ETPDN> <~END~>,predictedBegin:4/8/2016 0:0
+,trueBegin:3/30/16 0:00,predictedEnd:4/14/2016 23:59
+,trueEnd:4/3/16 23:59
+from 8_BTPMN / 25_BTPDN / 15_BTPYN at 12_BTPHN : 01_BTPmN am_BTPAP et_BTPZ through 8_ETPMN / 25_ETPDN / 15_ETPYN at 11_ETPHN : 59_ETPmN pm_ETPAP et_ETPZ,<FROM> <BTPMN> </> <ETPDN> </> <ETPYN> <AT> <ETPHN> <:> <BTPmN> <BTPAP> <BTPZ> <THROUGH> <ETPMN> </> <ETPDN> </> <ETPYN> <AT> <ETPHN> <:> <ETPmN> <ETPAP> <ETPZ> <~END~>,predictedBegin:8/25/2015 0:1
+,trueBegin:8/25/15 0:01,predictedEnd:8/25/2015 23:59
+,trueEnd:8/25/15 23:59
+VALID THRU 4_ETPMN / 19_ETPDN 10 OFF YOUR PURCHASE OF 25 OR MORE IN STORE OR ONLINE,<VALID> <THRU> <ETPMN> </> <ETPDN> <DIGIT> <OFF> <NA> <NA> <NA> <NA> <OR> <MORE> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:4/14/2016 0:0
+,trueBegin:4/14/16 0:00,predictedEnd:4/19/2016 23:59
+,trueEnd:4/19/16 23:59
+starting on 10_BTPMN / 13_BTPDN / 2015_BTPYN at 12_BTPHN : 00_BTPmN am_BTPAP et_BTPZ,<STARTING> <ON> <BTPMN> </> <ETPDN> </> <ETPYN> <AT> <ETPHN> <:> <ETPmN> <ETPAP> <ETPZ> <~END~>,predictedBegin:10/13/2015 0:0
+,trueBegin:10/13/15 0:00,predictedEnd:10/13/2015 12:0
+,trueEnd:10/13/15 23:59
+Earn extra coupons for The Goodwill Sale Ends Saturday_ETPDS March_ETPMS 26_ETPDN Get 3 coupons for every gently used item you donate in store Apparel shoes luggage handbags home textiles and linens & blankets Get 3 coupons when you donate 5 in store,<EARN> <NA> <NA> <FOR> <THE> <GOODWILL> <SALE> <ENDS> <ETPDS> <ETPMS> <ETPDN> <GET> <DIGIT> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:3/22/2016 0:0
+,trueBegin:3/22/16 0:00,predictedEnd:3/26/2016 23:59
+,trueEnd:3/26/16 23:59
+STOCK UP SALE LAST_TDPS DAY_TDSS BUY 1 GET 2 FREE All Suits &amp Sportcoats All fits including Big & Tall Shop Now,<NA> <NA> <SALE> <TDPS> <TDSS> <BUY> <DIGIT> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:3/25/2016 0:0
+,trueBegin:3/25/16 0:00,predictedEnd:3/25/2016 23:59
+,trueEnd:3/25/16 23:59
+only a few_TDPS hours_TDSS left ,<ONLY> <A> <TDPS> <TDSS> <LEFT> <~END~>,predictedBegin:8/16/2015 0:0
+,trueBegin:8/16/15 0:00,predictedEnd:8/16/2015 23:59
+,trueEnd:8/16/15 23:59
+offer expires 8_ETPMN / 27_ETPDN / 15_ETPYN at 11_ETPHN : 59_ETPmN pt_ETPZ or while supplies_TDPS last_TDSS,<OFFER> <EXPIRES> <ETPMN> </> <ETPDN> </> <ETPYN> <AT> <ETPHN> <:> <NA> <NA> <OR> <WHILE> <TDPS> <TDSS> <~END~>,predictedBegin:8/22/2015 0:0
+,trueBegin:8/22/15 0:00,predictedEnd:8/27/2015 11:0
+,trueEnd:8/27/15 23:59
+FOR A LIMITED_TDPS TIME_TDSS SAVE ON SELECTED TUMI LUGGAGE,<FOR> <A> <TDPS> <TDSS> <EVEN> <ON> <NA> <NA> <NA> <~END~>,predictedBegin:4/4/2016 0:0
+,trueBegin:4/4/16 0:00,predictedEnd:4/5/2016 23:59
+,trueEnd:4/5/16 23:59
+In stores 5 off any denim purchase includes Plus sizes Valid 2_BTPMN / 16_BTPDN 2_ETPMN / 23_ETPDN only Offer valid on all reg price denim shorts and jeans only Excludes clearance FIND A STORE,<IN> <STORES> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <VALID> <BTPMN> </> <BTPDN> <ETPMN> </> <ETPDN> <ONLY> <NA> <VALID> <ON> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:2/16/2016 0:0
+,trueBegin:2/16/16 0:00,predictedEnd:2/23/2016 23:59
+,trueEnd:2/23/16 23:59
+WELCOME TO THE TEAM Now youll be in the know about all the stuff you love : new arrivals upcoming sales and cant miss in store evetns Plus heres a little treat on us ONE_TDPS WEEK_TDSS ONLY TAKE 10 % OFF YOUR PURCHASE ONLINE OR IN STORES Your friends TEAM ATHLETA HERES YOUR CODE : ,<NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <FOR> <A> <LITTLE> <NA> <NA> <OFF> <TDPS> <TDSS> <ONLY> <TAKE> <DIGIT> <%> <OFF> <NA> <NA> <NA> <NA> <IN> <STORES> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:2/9/2016 0:0
+,trueBegin:2/9/16 0:00,predictedEnd:2/9/2016 23:59
+,trueEnd:2/15/16 23:59
+Shop Last_TDPS Chance_TDSS Winter SALE 100s of items UP TO 50 % OFF,<SHOP> <TDPS> <TDSS> <WINTER> <SALE> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:3/2/2016 0:0
+,trueBegin:3/2/16 0:00,predictedEnd:3/2/2016 23:59
+,trueEnd:3/3/16 23:59
+book by 11_ETPHN : 59_ETPmN pm_ETPAP on august_ETPMS 26_ETPDN 2015_ETPYN,<BOOK> <BY> <ETPHN> <:> <ETPmN> <PM> <ON> <ETPMS> <ETPDN> <ETPYN> <~END~>,predictedBegin:8/16/2015 0:0
+,trueBegin:8/16/15 0:00,predictedEnd:8/26/2015 11:59
+,trueEnd:8/26/15 23:59
+Today_ETPDS Online Only Shop 50 % Off Specials,<ETPDS> <ONLINE> <ONLY> <SHOP> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:3/8/2016 0:0
+,trueBegin:3/8/16 0:00,predictedEnd:3/8/2016 23:59
+,trueEnd:3/8/16 23:59
+Weekend_ETPDS sale update : more is more on ready to wear for men and women,<ETPDS> <SALE> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:3/26/2016 0:0
+,trueBegin:3/26/16 0:00,predictedEnd:3/27/2016 23:59
+,trueEnd:3/27/16 23:59
+Last_TDPS Day_TDSS Exclusively Online Extra 40 % off All Clearance 5 Shipping on All Orders Use Code : 15723,<TDPS> <TDSS> <ONLY> <ONLINE> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:2/16/2016 0:0
+,trueBegin:2/16/16 0:00,predictedEnd:2/16/2016 23:59
+,trueEnd:2/16/16 23:59
+Venus VIP Exclusive : 10 % OFF Dresses from 14 LAST_TDPS CHANCE_TDSS Shop Now and Enjoy 10 % OFF your entire,<NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <DIGIT> <TDPS> <TDSS> <SHOP> <NOW> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:3/30/2016 0:0
+,trueBegin:3/30/16 0:00,predictedEnd:3/30/2016 23:59
+,trueEnd:3/31/16 23:59
+March_ETPMS 17_ETPDN th St Patrick_TDPS Day_TDSS StPatricks Day Charms,<BTPMS> <BTPDN> <TH> <ETPDN> <EXTRA> <DAY> <EVERY> <TPRD> <DEAL> <~END~>,predictedBegin:3/17/2016 0:0
+,trueBegin:3/9/16 0:00,predictedEnd:3/17/2016 23:59
+,trueEnd:3/17/16 23:59
+Ends Saturday_ETPDS March_ETPMS 12_ETPDN 50 off your purchase of 100 or more Promo code : ZGDW 50 D 16 MR All in store merchandise including designer brands counts toward the 100 minimum however 50 discount applies only to coupon eigible merchandise Online offer varies see below for details SHOP NOW,<ENDS> <ETPDS> <ETPMS> <ETPDN> <DIGIT> <OFF> <NA> <NA> <NA> <NA> <OR> <MORE> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:3/10/2016 0:0
+,trueBegin:3/10/16 0:00,predictedEnd:3/12/2016 23:59
+,trueEnd:3/12/16 23:59
+SPRING CARDHOLDER EVENT ENJOY 25 % OFF NOW_BTPHS THROUGH FEBRUARY_ETPMS 22_ETPDN,<NA> <NA> <NA> <NA> <DIGIT> <%> <OFF> <BTPHS> <THROUGH> <ETPMS> <ETPDN> <~END~>,predictedBegin:2/20/2016 0:0
+,trueBegin:2/20/16 0:00,predictedEnd:2/22/2016 23:59
+,trueEnd:2/22/16 23:59
+24_TDPN hours_TDSS,<TDPN> <TDSS> <~END~>,predictedBegin:8/22/2015 0:0
+,trueBegin:8/22/15 0:00,predictedEnd:8/23/2015 23:59
+,trueEnd:8/22/15 23:59
+THURS_BTPDS 1_BTPHN PM_BTPAP CLOSE_ETPHS FRI_BTPDS OPEN 9_ETPHN PM_ETPAP SAT_BTPDS 9_BTPHN AM_BTPAP 5_ETPHN PM_ETPAP / ALL DAY ONLINE / 3_TDPN DAY_TDSS DOORBUSTER 50 % OFF ALMOST EVERYTHING IN STORE & ONLINE,<FROM> <BTPHN> <BTPAP> <TO> <ETPHN> <:> <ETPmN> <ETPAP> <BTPDS> <BTPHN> <BTPAP> <ETPHN> <ETPAP> <SHOP> <ALL> <DAY> <ONLINE> <EXCLUSIVE> <TDPN> <TDSS> <ONLY> <DIGIT> <%> <OFF> <NA> <NA> <IN> <STORE> <&> <ONLINE> <~END~>,predictedBegin:3/26/2016 1:0
+,trueBegin:3/22/16 0:00,predictedEnd:3/28/2016 17:9
+,trueEnd:3/26/16 17:00
+Use your GymBucks Save 25 on every 50 you spend Now_BTPHS thru Sunday_ETPDS 4_ETPMN / 24_ETPDN,<NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <YOU> <SPEND> <BTPDS> <THRU> <ETPDS> <ETPMN> </> <ETPDN> <~END~>,predictedBegin:4/16/2016 0:0
+,trueBegin:4/16/16 0:00,predictedEnd:4/24/2016 23:59
+,trueEnd:4/24/16 23:59
+IN STORE ONLY ENDS 4_ETPMN / 3_ETPDN TAKE 15 OFF YOUR PURCHASE OF 50 OR MORE,<NA> <NA> <ONLY> <ENDS> <ETPMN> </> <ETPDN> <TAKE> <DIGIT> <OFF> <NA> <NA> <NA> <NA> <OR> <MORE> <~END~>,predictedBegin:4/1/2016 0:0
+,trueBegin:4/1/16 0:00,predictedEnd:4/3/2016 23:59
+,trueEnd:4/3/16 23:59
+Deals of the day 98 OR LESS All Clearance Sportcoats Orig 450 895 Online Only Select Styles While Supplies_TDPS Last_TDSS Shop All Offers,<NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <SELECT> <STYLES> <WHILE> <TDPS> <TDSS> <SHOP> <ALL> <NA> <~END~>,predictedBegin:4/16/2016 0:0
+,trueBegin:4/16/16 0:00,predictedEnd:4/17/2016 23:59
+,trueEnd:4/17/16 23:59
+One_TDPS Day_TDSS Getting Warmer Sale,<TDPS> <TDSS> <LEFT> <SWIM> <SALE> <~END~>,predictedBegin:3/22/2016 0:0
+,trueBegin:3/22/16 0:00,predictedEnd:3/22/2016 23:59
+,trueEnd:3/22/16 23:59
+The Goodwill Sale Ends Saturday_ETPDS March_ETPMS 26_ETPDN Save on nearly everything including your favorite brands that rarely go on sale Enjoy 2 exclusive coupons for big savings Plus donate in store to earn extra coupons Extra 25 % off an apparel or fine jewelry item Extra 15 % off a cosmetics or fragrance item Promo code : GOODWILLM 16 PRINT COUPON,<THE> <GOODWILL> <SALE> <ENDS> <ETPDS> <ETPMS> <ETPDN> <SAVE> <ON> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:3/17/2016 0:0
+,trueBegin:3/17/16 0:00,predictedEnd:3/26/2016 23:59
+,trueEnd:3/26/16 23:59
+LAST_TDPS DAY_TDSS TAKE 30 OFF EVERY 100 SPENT,<TDPS> <TDSS> <TAKE> <DIGIT> <OFF> <EVERY> <NA> <NA> <~END~>,predictedBegin:3/28/2016 0:0
+,trueBegin:3/28/16 0:00,predictedEnd:3/28/2016 23:59
+,trueEnd:3/28/16 23:59
+PRINT COUPON valid thru 4_ETPMN / 17_ETPDN,<NA> <NA> <VALID> <THRU> <ETPMN> </> <ETPDN> <~END~>,predictedBegin:4/4/2016 0:0
+,trueBegin:4/4/16 0:00,predictedEnd:4/17/2016 23:59
+,trueEnd:4/17/16 23:59
+Last_TDPS Day_TDSS All Jeans 39,<TDPS> <TDSS> <ALL> <NA> <NA> <~END~>,predictedBegin:4/12/2016 0:0
+,trueBegin:4/12/16 0:00,predictedEnd:4/12/2016 23:59
+,trueEnd:4/12/16 23:59
+BUY ONE GET ONE FREE ALMOST EVERYTHING IN STORE & ONLINE BOGO FREE DOORBUSTERS 2_BTPHN PM_BTPAP 9_ETPHN PM_ETPAP FRIDAY_BTPDS / 9_BTPHN AM_BTPAP 4_ETPHN PM_ETPAP SATURDAY_ETPDS & ALL_TDPS DAY_TDSS ONLINE,<NA> <NA> <NA> <NA> <NA> <NA> <NA> <IN> <STORE> <&> <ONLINE> <NA> <NA> <:> <ETPmN> <ETPAP> <ETPHN> <ETPAP> <BTPDS> <BTPDS> <BTPHN> <BTPAP> <ETPHN> <ETPAP> <BTPDS> <&> <NA> <NA> <NA> <~END~>,predictedBegin:4/16/2016 9:0
+,trueBegin:4/15/16 14:00,predictedEnd:4/16/2016 21:2
+,trueEnd:4/16/16 16:00
+STOCK UP SALE FINAL_TDPS DAY_TDSS Suits & Sportcoats BUY 1 GET 2 FREE,<NA> <NA> <SALE> <TDPS> <TDSS> <SUITS> <&> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:2/20/2016 0:0
+,trueBegin:2/20/16 0:00,predictedEnd:2/20/2016 23:59
+,trueEnd:2/20/16 23:59
+exp 10_ETPMN / 23_ETPDN 11_ETPHN : 59_ETPmN pm_ETPAP pt_ETPZ,<ENDS> <ETPMN> </> <ETPDN> <ETPHN> <:> <ETPmN> <ETPAP> <ETPZ> <~END~>,predictedBegin:10/13/2015 0:0
+,trueBegin:10/13/15 0:00,predictedEnd:10/23/2015 23:59
+,trueEnd:10/23/15 23:59
+Today_ETPDS Only Complete your outfit In Stores Only : 2950 Select Solid Shrugs Find A Store,<ETPDS> <ONLY> <COMPLETE> <NA> <NA> <IN> <STORES> <ONLY> <:> <NA> <SELECT> <ETPMS> <ETPDN> <FIND> <A> <NA> <~END~>,predictedBegin:3/25/2016 0:0
+,trueBegin:3/25/16 0:00,predictedEnd:3/25/2016 23:59
+,trueEnd:3/25/16 23:59
+Hurry Last_TDPS Day_TDSS 30 % off to 70 % 2 off entire store,<HURRY> <TDPS> <TDSS> <DIGIT> <%> <OFF> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:4/16/2016 0:0
+,trueBegin:4/16/16 0:00,predictedEnd:4/16/2016 23:59
+,trueEnd:4/16/16 23:59
+Its Kenneths Birthday but you get the gift Today_ETPDS online only : Enjoy 25 % off your purchase To redeem use code HBDKC at checkout Shop now,<NA> <NA> <NA> <NA> <NA> <NA> <NA> <ENDS> <ETPDS> <ONLINE> <ONLY> <:> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:3/22/2016 0:0
+,trueBegin:3/22/16 0:00,predictedEnd:3/22/2016 23:59
+,trueEnd:3/22/16 23:59
+Presidents Day Sale Ends Thursday_ETPDS February_ETPMS 18_ETPDN Save up to 75 % off storewide sale & clearance Take up to an extra 25 % off sale price merchandise Promo code : PRESIDENT 16 In store only 10 off your 25 purchase Print coupons,<TDPS> <TDSS> <SALE> <ENDS> <ETPDS> <ETPMS> <ETPDN> <SAVE> <UP> <TO> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:2/15/2016 0:0
+,trueBegin:2/15/16 0:00,predictedEnd:2/18/2016 23:59
+,trueEnd:2/18/16 23:59
+Ends Tomorrow_ETPDS Easter Sale Event Additional 20 % OFF On All Sale Items,<ENDS> <ETPDS> <EASTER> <SALE> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:3/27/2016 0:0
+,trueBegin:3/27/16 0:00,predictedEnd:3/28/2016 23:59
+,trueEnd:3/28/16 23:59
+Limited_TDPS time_TDSS Exclusively online Exclusions apply See Details,<TDPS> <TDSS> <ONLY> <ONLINE> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:2/29/2016 0:0
+,trueBegin:2/29/16 0:00,predictedEnd:3/1/2016 23:59
+,trueEnd:3/1/16 23:59
+spring HOME SALE ENDS TUESDAY_ETPDS MARCH_ETPMS 8_ETPDN Take an EXTRA 25 % OFF home store & luggage Promo code : MRSDHE 25 P 16 PRINT COUPON,<NA> <HOME> <SALE> <ENDS> <ETPDS> <ETPMS> <ETPDN> <TAKE> <AN> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:3/2/2016 0:0
+,trueBegin:3/2/16 0:00,predictedEnd:3/8/2016 23:59
+,trueEnd:3/8/16 23:59
+4_TDPN days_TDSS only Wednesday_BTPDS March_BTPMS 23_BTPDN through Saturday_ETPDS March_ETPMS 26_ETPDN 50 off your purchase of 100 or more Promo code : ZEASTER 5016 All in store merchandise including designer brands counts toward the 100 minimum however 50 discount applies only to coupon eligible merchadise Online offer varies see below for details Print Coupons,<TDPN> <TDSS> <ONLY> <BTPDS> <BTPMS> <BTPDN> <THROUGH> <ETPDS> <ETPMS> <ETPDN> <DIGIT> <OFF> <NA> <NA> <NA> <NA> <OR> <MORE> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:3/23/2016 0:0
+,trueBegin:3/23/16 0:00,predictedEnd:3/26/2016 23:59
+,trueEnd:3/26/16 23:59
+Today_ETPDS more is more on the best of spring shoes for men and women,<BTPDS> <MORE> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:3/17/2016 0:0
+,trueBegin:3/17/16 0:00,predictedEnd:3/17/2016 23:59
+,trueEnd:3/17/16 23:59
+1_TDPN More Day_TDSS Online Only,<TDPN> <MORE> <TDSS> <ONLINE> <ONLY> <~END~>,predictedBegin:4/5/2016 0:0
+,trueBegin:4/5/16 0:00,predictedEnd:4/5/2016 23:59
+,trueEnd:4/5/16 23:59
+PRINT COUPON valid 3_ETPMN / 13_ETPDN,<NA> <NA> <VALID> <BTPMN> </> <ETPDN> <~END~>,predictedBegin:3/12/2016 0:0
+,trueBegin:3/12/16 0:00,predictedEnd:3/13/2016 23:59
+,trueEnd:3/13/16 23:59
+3_TDPN DAYS_TDSS ONLY New Styles JUST ADDED UP TO 80 % OFF ORIGINAL PRICESWHEN YOU TAKE AN EXTRA 40 % OFF PREVIOUSLY REDUCED PRICES IN OUR ONLINE OUTLET ENDS MIDNIGHT_ETPHS SUNDAY_ETPDS 3_ETPMN / 27_ETPDN ENTER CODE SAVE 40 AT CHECKOUTHURRY QUANTITIES ARE LIMITED,<TDPN> <TDSS> <ONLY> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <OUTLET> <ENDS> <ETPHS> <ETPDS> <ETPMN> </> <ETPDN> <ENTER> <CODE> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:3/25/2016 0:0
+,trueBegin:3/25/16 0:00,predictedEnd:3/27/2016 23:59
+,trueEnd:3/27/16 23:59
+Yellow Dot Clearance Final Reduction Get it before its gone Plus Final_TDPS Week_TDSS of Winter Clearance Save up to 85 % on original prices when you take an extra 60 70 % off Yellow Dot and extra 70 80 % off Black Dot Ends Sunday_ETPDS April_ETPMS 10_ETPDN Take an extra 30 % off Yellow Dot or Black Dot womens mens and kids apparel purchase Promo code : APRBFYDBD 16 Print coupon,<NA> <NA> <CLEARANCE> <TDPS> <TDSS> <GET> <IT> <NA> <NA> <GONE> <PLUS> <TDPS> <TDSS> <OF> <WINTER> <NA> <SAVE> <UP> <TO> <NA> <NA> <NA> <ORIGINAL> <PRICES> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <BLACK> <DOT> <ENDS> <ETPDS> <ETPMS> <ETPDN> <TAKE> <AN> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:4/8/2016 0:0
+,trueBegin:4/8/16 0:00,predictedEnd:4/10/2016 23:59
+,trueEnd:4/10/16 23:59
+Limited_TDPS Time_TDSS Jeans 39,<TDPS> <TDSS> <JEANS> <DIGIT> <~END~>,predictedBegin:2/14/2016 0:0
+,trueBegin:2/14/16 0:00,predictedEnd:2/15/2016 23:59
+,trueEnd:2/15/16 23:59
+LAST_TDPS DAY_TDSS to get a FREE 25 gift card Free Shipping on 100,<TDPS> <TDSS> <TO> <GET> <A> <NA> <NA> <NA> <NA> <FREE> <SHIPPING> <NA> <NA> <~END~>,predictedBegin:4/16/2016 0:0
+,trueBegin:4/16/16 0:00,predictedEnd:4/16/2016 23:59
+,trueEnd:4/16/16 23:59
+12_BTPHN 01_BTPmN am_BTPAP pst_BTPZ october_BTPMS 22_BTPDN 2015_BTPYN to 11_ETPHN : 59_ETPmN pm_ETPAP pst_ETPZ october_ETPMS 25_ETPDN 2015_ETPYN,<TILL> <ETPHN> <ETPAP> <ETPZ> <ETPMS> <BTPDN> <BTPYN> <TO> <ETPHN> <:> <ETPmN> <ETPAP> <ETPZ> <ETPMS> <ETPDN> <ETPYN> <~END~>,predictedBegin:10/22/2015 0:0
+,trueBegin:10/22/15 0:01,predictedEnd:10/25/2015 11:59
+,trueEnd:10/25/15 0:01
+50 % off All Dresses ends at midnight_ETPHS,<NA> <NA> <NA> <ALL> <DRESSES> <ENDS> <AT> <ETPHS> <~END~>,predictedBegin:4/5/2016 0:0
+,trueBegin:4/5/16 0:00,predictedEnd:4/5/2016 23:59
+,trueEnd:4/5/16 23:59
+july_BTPMS 27_BTPDN 2015_BTPYN at 11_BTPHN : 59_BTPmN pm_BTPAP,<ETPMS> <ETPDN> <ETPYN> <AT> <ETPHN> <:> <ETPmN> <ETPAP> <~END~>,predictedBegin:7/27/2015 0:0
+,trueBegin:7/27/15 23:59,predictedEnd:7/27/2015 23:59
+,trueEnd:7/27/15 23:59
+through august_ETPMS 29_ETPDN 2015_ETPYN,<THROUGH> <ETPMS> <ETPDN> <ETPYN> <~END~>,predictedBegin:8/24/2015 0:0
+,trueBegin:8/24/15 0:00,predictedEnd:8/29/2015 23:59
+,trueEnd:8/29/15 23:59
+100 Easter Styles CLEAROUT Gone Sunday_ETPDS @ Midnight_ETPHS Shop Now,<NA> <NA> <NA> <NA> <GONE> <ETPDS> <@> <ETPHS> <SHOP> <NOW> <~END~>,predictedBegin:3/10/2016 0:0
+,trueBegin:3/10/16 0:00,predictedEnd:3/13/2016 23:59
+,trueEnd:3/13/16 23:59
+MIDDAY_BTPHS FLASH_TDPS SALE DONT MISS UP TO 60 % OFF SELECT MENS & WOMENS STYLES FROM 11_BTPHN AM_BTPAP 4_ETPHN PM_ETPAP ONLINE ONLY SHOP WOMENS,<ETPHS> <FLASH> <SALE> <DONT> <MISS> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <STYLES> <FROM> <BTPHN> <BTPAP> <ETPHN> <ETPAP> <ONLINE> <ONLY> <SHOP> <WOMENS> <~END~>,predictedBegin:4/14/2016 11:0
+,trueBegin:4/14/16 11:00,predictedEnd:4/14/2016 16:0
+,trueEnd:4/14/16 16:00
+Online Today_ETPDS Only Clearance : Buy One Get One Free,<ONLINE> <ETPDS> <ONLY> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:3/2/2016 0:0
+,trueBegin:3/2/16 0:00,predictedEnd:3/2/2016 23:59
+,trueEnd:3/2/16 23:59
+between august_BTPMS 17_BTPDN 2015_BTPYN and december_ETPMS 31_ETPDN 2015_ETPYN,<BETWEEN> <BTPMS> <BTPDN> <BTPYN> <AND> <ETPMS> <ETPDN> <ETPYN> <~END~>,predictedBegin:8/17/2015 0:0
+,trueBegin:8/17/15 0:01,predictedEnd:12/31/2015 23:59
+,trueEnd:8/19/15 0:01
+Ends Tomorrow_ETPDS 25 % Off Entire Purchase Use Code : 30496,<ENDS> <ETPDS> <DIGIT> <%> <OFF> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:3/12/2016 0:0
+,trueBegin:3/12/16 0:00,predictedEnd:3/13/2016 23:59
+,trueEnd:3/13/16 23:59
+today_ETPDS only,<ETPDS> <ONLY> <~END~>,predictedBegin:7/26/2015 0:0
+,trueBegin:7/26/15 0:00,predictedEnd:7/26/2015 23:59
+,trueEnd:7/26/15 23:59
+FLASH SALE Up to 75 % OFF Today_ETPDS ONLY Act Fast 6_ETPDN Hours_ETPHS to Save up to 75 % OFF Shop 6_ETPDN Hour_ETPHS Flash Sale,<FLASH> <SALE> <UP> <TO> <NA> <%> <OFF> <ETPDS> <ONLY> <FREE> <SHIPPING> <TDPN> <TDSS> <TO> <SAVE> <UP> <TO> <NA> <NA> <NA> <NA> <NA> <NA> <FLASH> <SALE> <~END~>,predictedBegin:3/9/2016 0:0
+,trueBegin:3/9/16 0:00,predictedEnd:3/9/2016 23:59
+,trueEnd:3/9/16 23:59
+Heres a little swim SALE Because its never too early to think about the beach ONLINE ONLY ENDS SATURDAY_ETPDS MARCH_ETPMS 5_ETPDN EXTRA 30 % OFF WOMENS SWIMWEAR PURCHASE PROMO CODE : SWIM 30 MAR 03,<FOR> <A> <LITTLE> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <ONLINE> <ONLY> <ENDS> <ETPDS> <ETPMS> <ETPDN> <EXTRA> <DIGIT> <%> <OFF> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:3/2/2016 0:0
+,trueBegin:3/2/16 0:00,predictedEnd:3/5/2016 23:59
+,trueEnd:3/5/16 23:59
+Extended Saturday_ETPDS Doorbusters,<EXTENDED> <ETPDS> <DOORBUSTERS> <~END~>,predictedBegin:2/20/2016 0:0
+,trueBegin:2/20/16 0:00,predictedEnd:2/27/2016 23:59
+,trueEnd:2/20/16 23:59
+Online Only Ends Tomorrow_ETPDS,<ONLINE> <ONLY> <ENDS> <ETPDS> <~END~>,predictedBegin:3/20/2016 0:0
+,trueBegin:3/20/16 0:00,predictedEnd:3/21/2016 23:59
+,trueEnd:3/21/16 23:59
+ONLINE ONLY Home store closeout deals Ends Saturday_ETPDS February_ETPMS 20_ETPDN SHOP ALL ONLINE ONLY OFFERS,<ONLINE> <ONLY> <NA> <NA> <NA> <NA> <ENDS> <ETPDS> <ETPMS> <ETPDN> <SHOP> <ALL> <NA> <NA> <NA> <~END~>,predictedBegin:2/18/2016 0:0
+,trueBegin:2/18/16 0:00,predictedEnd:2/20/2016 23:59
+,trueEnd:2/20/16 23:59
+Today_ETPDS Online Only All Shorts on Sale Starting at 20,<ETPDS> <ONLINE> <ONLY> <ALL> <SHORTS> <NA> <SALE> <STARTING> <AT> <DIGIT> <~END~>,predictedBegin:3/17/2016 0:0
+,trueBegin:3/17/16 0:00,predictedEnd:3/17/2016 23:59
+,trueEnd:3/17/16 23:59
+Last_TDPS Call_TDSS ONE BIG SALE,<TDPS> <TDSS> <ONE> <NA> <NA> <~END~>,predictedBegin:4/16/2016 0:0
+,trueBegin:4/16/16 0:00,predictedEnd:4/16/2016 23:59
+,trueEnd:4/16/16 23:59
+LIMITED_TDPS TIME_TDSS ONLY WOMENS SUITING STARTING AT 9999 FIND A STORE,<TDPS> <TDSS> <ONLY> <IN> <STORES> <STARTING> <AT> <DIGIT> <NA> <NA> <NA> <~END~>,predictedBegin:2/18/2016 0:0
+,trueBegin:2/16/16 0:00,predictedEnd:2/19/2016 23:59
+,trueEnd:2/17/16 23:59
+LAST_TDPS DAY_TDSS 25 % OFF WITH PROMO CODE,<TDPS> <TDSS> <DIGIT> <%> <OFF> <NA> <NA> <NA> <~END~>,predictedBegin:2/20/2016 0:0
+,trueBegin:2/20/16 0:00,predictedEnd:2/20/2016 23:59
+,trueEnd:2/20/16 23:59
+ends august_ETPMS 25_ETPDN 2015_ETPYN @ 1_ETPHN : 59_ETPmN am_ETPAP et_ETPZ,<ENDS> <ETPMS> <ETPDN> <ETPYN> <@> <ETPHN> <:> <ETPmN> <ETPAP> <ETPZ> <~END~>,predictedBegin:8/22/2015 0:0
+,trueBegin:8/22/15 0:00,predictedEnd:8/25/2015 1:59
+,trueEnd:8/25/15 23:59
+Exclusively FOR OUR EMAIL CUSTOMERS Ends Wednesday_ETPDS March_ETPMS 2_ETPDN EXTRA 25 % OFF SALE PRICE APPAREL EXTRA 15 % OFF SALE PRICE SHOES ACCESSORIES OUTERWEAR AND MORE Promo code : MARCH 25 PASS SHOP NOW,<NA> <NA> <NA> <NA> <CUSTOMERS> <ENDS> <ETPDS> <ETPMS> <ETPDN> <EXTRA> <DIGIT> <%> <OFF> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <CODE> <:> <ETPMS> <ETPDN> <ONLY> <SHOP> <NOW> <~END~>,predictedBegin:2/20/2016 0:0
+,trueBegin:2/20/16 0:00,predictedEnd:3/25/2016 23:59
+,trueEnd:3/2/16 23:59
+Limited_TDPS Time_TDSS Spring It On 40 % OFF AT GAP & BANANA REPUBLIC 35 % OFF AT OLD NAVY,<TDPS> <TDSS> <SPRING> <PREFERRED> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:3/6/2016 0:0
+,trueBegin:3/6/16 0:00,predictedEnd:3/7/2016 23:59
+,trueEnd:3/7/16 23:59
+One_TDPS Day_TDSS Secret Designer Sale,<TDPS> <TDSS> <LEFT> <SWIM> <SALE> <~END~>,predictedBegin:3/2/2016 0:0
+,trueBegin:3/2/16 0:00,predictedEnd:3/2/2016 23:59
+,trueEnd:3/2/16 23:59
+YELLOW DOT CLEARANCE THOUSANDS OF ITEMS ADDED save up to 85 % on original prices when you take an extra 50 60 % off Yellow Dot extra 70 80 % off Black Dot PLUS SAVE EVEN MORE ENDS TODAY_ETPDS WEDNESDAY_ETPDS FEBRUARY_ETPMS 17_ETPDN extra 40 % off Yellow and Black Dot womens mens and kis apparel PRomo code : DOT 4 FEB 161 extra 20 % OFF Yellow and Black Dot footwear Promo code : DOT 4 SHOES 16 Promo code : DOT 4 SHOES 16 PRINT COUPONS,<NA> <NA> <NA> <NA> <NA> <NA> <NA> <SAVE> <UP> <TO> <NA> <NA> <NA> <ORIGINAL> <PRICES> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <ENDS> <ETPDS> <ETPDS> <ETPMS> <ETPDN> <EXTRA> <DIGIT> <%> <OFF> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <ETPMS> <ETPDN> <EXTRA> <DIGIT> <%> <OFF> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:2/17/2016 0:0
+,trueBegin:2/17/16 0:00,predictedEnd:2/17/2016 23:59
+,trueEnd:2/17/16 23:59
+last_TDPS day_TDSS unlock,<TDPS> <TDSS> <ONLY> <~END~>,predictedBegin:8/22/2015 0:0
+,trueBegin:8/22/15 0:00,predictedEnd:8/22/2015 23:59
+,trueEnd:8/22/15 23:59
+HURRY ENDS AT MIDNIGHT_ETPHS SPRING FORWARD SALE IN STORE AND ONLINE,<HURRY> <ENDS> <AT> <ETPHS> <SHOP> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:3/12/2016 0:0
+,trueBegin:3/12/16 0:00,predictedEnd:3/12/2016 23:59
+,trueEnd:3/12/16 23:59
+Final_TDPS Hours_TDSS Easter Sale Event Additional 20 % OFF On All Sale Items,<TDPS> <TDSS> <ONLINE> <SALE> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:3/28/2016 0:0
+,trueBegin:3/28/16 0:00,predictedEnd:3/28/2016 23:59
+,trueEnd:3/28/16 23:59
+Ends February_ETPMS 21_ETPDN get your pass,<ENDS> <ETPMS> <ETPDN> <GET> <YOUR> <NA> <~END~>,predictedBegin:2/20/2016 0:0
+,trueBegin:2/20/16 0:00,predictedEnd:2/21/2016 23:59
+,trueEnd:2/21/16 23:59
+Only Hours_TDPS Left_TDSS Markdowns up to 75 % OFF Dont miss this Clearance Event Special One_TDPS Day_TDSS Prices Shop Clearance Event Final_TDPS Day_TDSS to save up to 75 % OFF,<TDPS> <TDSS> <LEFT> <STOCK> <UP> <TO> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <SOMETHING> <SPECIAL> <TDPS> <TDSS> <PRICES> <SHOP> <NA> <OFF> <TDPS> <TDSS> <TO> <SAVE> <UP> <TO> <NA> <NA> <NA> <~END~>,predictedBegin:2/20/2016 0:0
+,trueBegin:2/20/16 0:00,predictedEnd:2/20/2016 23:59
+,trueEnd:2/20/16 23:59
+One_TDPS Day_TDSS Dress Sale All Dresses 39 and UNDER One_TDPS Day_TDSS to Save on Must Have Dresses Shop Now,<TDPS> <TDSS> <ONLINE> <SALE> <NA> <NA> <NA> <AND> <ONLINE> <TDPS> <TDSS> <TO> <SAVE> <ON> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:3/22/2016 0:0
+,trueBegin:3/22/16 0:00,predictedEnd:3/22/2016 23:59
+,trueEnd:3/22/16 23:59
+SHOP LATER VALID APRIL_BTPMS 8_BTPDN 10_ETPDN,<NA> <LATER> <VALID> <BTPMS> <BTPDN> <ETPDN> <~END~>,predictedBegin:4/8/2016 0:0
+,trueBegin:4/8/16 0:00,predictedEnd:4/10/2016 23:59
+,trueEnd:4/10/16 23:59
+ONLINE ONLY ENDS 3_ETPMN / 28_ETPDN,<ONLINE> <ONLY> <ENDS> <ETPMN> </> <ETPDN> <~END~>,predictedBegin:3/27/2016 0:0
+,trueBegin:3/27/16 0:00,predictedEnd:3/28/2016 23:59
+,trueEnd:3/28/16 23:59
+FRIENDS AND FAMILY ONLINE ONLY 2_TDPN DAYS_TDSS ONLY APRIL_BTPMS 18_BTPDN TH AND 19_ETPDN TH,<NA> <NA> <NA> <ONLINE> <ONLY> <TDPN> <TDSS> <ETPDS> <ETPMS> <ETPDN> <TH> <AND> <ETPDN> <TH> <~END~>,predictedBegin:4/16/2016 0:0
+,trueBegin:4/18/16 0:00,predictedEnd:4/19/2016 23:59
+,trueEnd:4/19/16 23:59
+THE SPRING FORWARD SALE LOSE AN HOUR GAIN UP TO 60 % OFF TODAY_ETPDS ONLY ON SELECT STYLES / SHOP MENS,<HAPPY> <SPRING> <FORWARD> <NA> <NA> <NA> <NA> <NA> <NA> <NA> <DIGIT> <%> <OFF> <ETPDS> <ONLY> <NA> <SELECT> <STYLES> <ETPDS> <SHOP> <MENS> <~END~>,predictedBegin:3/12/2016 0:0
+,trueBegin:3/12/16 0:00,predictedEnd:3/12/2016 23:59
+,trueEnd:3/12/16 23:59
+ends tomorrow_ETPDS ,<ENDS> <ETPDS> <~END~>,predictedBegin:12/1/2015 0:0
+,trueBegin:12/1/15 0:00,predictedEnd:12/2/2015 23:59
+,trueEnd:12/2/15 23:59
+Today_ETPDS Only Complete your outfit In Stores Only : 3950 Select Solid Cardigans Find A Store,<ETPDS> <ONLY> <COMPLETE> <NA> <NA> <IN> <STORES> <ONLY> <:> <NA> <SELECT> <ETPMS> <ETPDN> <FIND> <A> <NA> <~END~>,predictedBegin:3/25/2016 0:0
+,trueBegin:3/25/16 0:00,predictedEnd:3/25/2016 23:59
+,trueEnd:3/25/16 23:59
+valid from 08_BTPMN / 25_BTPDN / 2015_BTPYN at 12_BTPHN : 00_BTPmN am_BTPAP est_BTPZ through 08_ETPMN / 29_ETPDN / 2015_ETPYN at 11_ETPHN : 59_ETPmN pm_ETPAP est_ETPZ,<VALID> <FROM> <BTPMN> </> <ETPDN> </> <ETPYN> <AT> <ETPHN> <:> <BTPmN> <BTPAP> <BTPZ> <THROUGH> <ETPMN> </> <ETPDN> </> <ETPYN> <AT> <ETPHN> <:> <ETPmN> <ETPAP> <ETPZ> <~END~>,predictedBegin:8/22/2015 0:0
+,trueBegin:8/25/15 0:01,predictedEnd:8/29/2015 23:59
+,trueEnd:8/29/15 23:59
+valid from 8_BTPMN / 25_BTPDN / 2015_BTPYN at 12_BTPHN : 01_BTPmN am_BTPAP est through 8_ETPMN / 29_ETPDN / 2015_ETPYN at 11_ETPHN : 59_ETPmN pm_ETPAP est_ETPZ,<VALID> <FROM> <BTPMN> </> <ETPDN> </> <ETPYN> <AT> <ETPHN> <:> <BTPmN> <BTPAP> <BTPZ> <THROUGH> <ETPMN> </> <ETPDN> </> <ETPYN> <AT> <ETPHN> <:> <ETPmN> <ETPAP> <ETPZ> <~END~>,predictedBegin:8/22/2015 0:1
+,trueBegin:8/25/15 0:01,predictedEnd:8/29/2015 23:59
+,trueEnd:8/29/15 23:59
+beginning august_BTPMS 1_BTPDN 2015_BTPYN at 6_BTPHN : 00_BTPmN am_BTPAP edt_BTPZ through september_ETPMS 1_ETPDN 2015_ETPYN at 3_ETPHN : 00_ETPmN am_ETPAP pdt_ETPZ,<BEGINNING> <BTPMS> <BTPDN> <BTPYN> <AT> <ETPHN> <:> <BTPmN> <BTPAP> <BTPZ> <THROUGH> <ETPMS> <ETPDN> <ETPYN> <AT> <ETPHN> <:> <ETPmN> <ETPAP> <ETPZ> <~END~>,predictedBegin:8/1/2015 0:0
+,trueBegin:8/1/15 6:00,predictedEnd:9/1/2015 6:0
+,trueEnd:9/1/15 3:00
+Valid for one time use online & in store Expires 30_TDPN days_TDSS after receipt In store : Present email at checkout,<VALID> <FOR> <TDPS> <TDSS> <USE> <NA> <NA> <NA> <NA> <NA> <NA> <DAYS> <START> <BTPDS> <IN> <STORE> <NA> <NA> <NA> <NA> <NA> <~END~>,predictedBegin:2/9/2016 0:0
+,trueBegin:2/9/16 0:00,predictedEnd:2/9/2016 23:59
+,trueEnd:3/9/16 23:59
+IN STORE & ONLINE PRINT COUPON valid 3_BTPMN / 30_BTPDN 4_ETPMN / 3_ETPDN,<IN> <STORE> <&> <ONLINE> <NA> <NA> <VALID> <BTPMN> </> <BTPDN> <ETPMN> </> <ETPDN> <~END~>,predictedBegin:3/30/2016 0:0
+,trueBegin:3/30/16 0:00,predictedEnd:4/3/2016 23:59
+,trueEnd:4/3/16 23:59
+FLASH_TDPS DEAL 24_TDPN HOURS_TDSS ONLY,<TDPS> <TDSS> <TDPN> <TDSS> <ONLY> <~END~>,predictedBegin:4/12/2016 0:0
+,trueBegin:4/12/16 0:00,predictedEnd:4/13/2016 23:59
+,trueEnd:4/12/16 23:59
+between 12_BTPHN / 1_BTPDN / 2015_BTPYN at 12_BTPHN : 01_BTPmN am_BTPAP et_BTPZ and 12_ETPMN / 7_ETPDN / 2015_ETPYN at 11_ETPHN : 59_ETPmN pm_ETPAP et_ETPZ,<BETWEEN> <BTPMN> </> <ETPDN> </> <ETPYN> <AT> <ETPHN> <:> <BTPmN> <BTPAP> <BTPZ> <AND> <ETPMN> </> <ETPDN> </> <ETPYN> <AT> <ETPHN> <:> <ETPmN> <ETPAP> <ETPZ> <~END~>,predictedBegin:12/30/2015 0:1
+,trueBegin:12/1/15 0:01,predictedEnd:12/7/2015 23:59
+,trueEnd:12/7/15 23:59

@@ -124,7 +124,7 @@ class HMModel(ModelBase):
         results = []
         sentenceNumber = 1.0
         stateStrings = []
-        ignoreVocabforNA = True
+        ignoreVocabforNA = False
         f = open(logFilename,'w')
         for sentence in sentences:
             f.write("{}: {} \n".format(sentenceNumber,sentence))
